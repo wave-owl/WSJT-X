@@ -1,0 +1,221 @@
+{
+  "gitlinks": {},
+  "vendored": [
+    {
+      "path": "contrib",
+      "repository": null,
+      "commit": null,
+      "licenses": [
+        "contrib/QDarkStyleSheet/LICENSE.md"
+      ],
+      "evidence": [
+        "contrib/Commander TCPIP Mesages.pdf",
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "path": "lib",
+      "repository": null,
+      "commit": null,
+      "licenses": [
+        "COPYING"
+      ],
+      "evidence": [
+        "lib/77bit/77bit.txt",
+        "CMakeLists.txt"
+      ]
+    }
+  ],
+  "models": [],
+  "external_libraries": [
+    {
+      "name": "Conditional source requirements declared by CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by bundle_fixup/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "bundle_fixup/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by contrib/QDarkStyleSheet/setup.py",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "contrib/QDarkStyleSheet/setup.py"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by debian/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "debian/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by doc/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "doc/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by lib/ftrsd/Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "lib/ftrsd/Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by lib/ftrsd/ftrsd_paper/Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "lib/ftrsd/ftrsd_paper/Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by lib/wsprd/Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "lib/wsprd/Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by manpages/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "manpages/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by map65/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "map65/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by map65/libm65/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "map65/libm65/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by map65/libm65/Makefile",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "map65/libm65/Makefile"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by map65/map65.pro",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "map65/map65.pro"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by plots/refspec.pro",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "plots/refspec.pro"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by qmap/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "qmap/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by qmap/libqmap/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "qmap/libqmap/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by qmap/qmap.pro",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "qmap/qmap.pro"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by samples/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "samples/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by tests/CMakeLists.txt",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "tests/CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Conditional source requirements declared by wsjtx.pro",
+      "version": "unresolved; see immutable declaration evidence",
+      "evidence": [
+        "wsjtx.pro"
+      ]
+    },
+    {
+      "name": "Boost (1.62 at default HEAD)",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "FFTW3 single/threads",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Hamlib",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "libusb",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "Qt5 GUI/multimedia/serial/SQL/Linguist",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "OpenMP optional",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    },
+    {
+      "name": "PortAudio optional",
+      "version": "unresolved; conditional source declaration",
+      "evidence": [
+        "CMakeLists.txt"
+      ]
+    }
+  ]
+}

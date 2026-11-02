@@ -105,3 +105,9 @@ Project mailing list (shared with other applications from the same
 team):
 
 https://sourceforge.net/projects/wsjt/lists/wsjt-devel
+
+## Source SBOM
+
+See [repository source SBOM report](SBOM.md). Release reports are generated automatically.
+
+The [source SBOM policy](SBOM-POLICY.md) describes automatic release artifacts.

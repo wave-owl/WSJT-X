@@ -1,0 +1,2315 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "bom-ref": "1704c1c3e5fe4dd5",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "148f776583059a7b03cf115ee07c1c7c51cbdea3"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "3dd0afbc25470dd86ab561ca79febf8761dfa55e676a28d215e6fc41e6c73640"
+        }
+      ],
+      "name": "map65/resources/qthid/qthid-4.1.exe.exe",
+      "type": "file"
+    },
+    {
+      "bom-ref": "1c37cfa0fb11d328",
+      "cpe": "cpe:2.3:a:mingwm10:mingwm10:*:*:*:*:*:*:*:*",
+      "name": "mingwm10",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:mingwm10:mingwm:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:mingwm:mingwm10:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:mingwm:mingwm:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/mingwm10.dll"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "1cb106f0d753b9d7",
+      "cpe": "cpe:2.3:a:qthid:qthid:*:*:*:*:*:*:*:*",
+      "name": "qthid",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid.exe"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "31a48d29f3fd8ab3",
+      "cpe": "cpe:2.3:a:rigctl-wsjtx:rigctl-wsjtx:*:*:*:*:*:*:*:*",
+      "name": "rigctl-wsjtx",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:rigctl-wsjtx:rigctl_wsjtx:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:rigctl_wsjtx:rigctl-wsjtx:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:rigctl_wsjtx:rigctl_wsjtx:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:rigctl:rigctl-wsjtx:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:rigctl:rigctl_wsjtx:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/rigctl-wsjtx.exe"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "393a4644cf195a13",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "8788851ff49fffd0c66d8a18cf187f5fe725bd8b"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "29f06a4500ae33c7bfad216173272291eddc50bea07173698da819936c27297f"
+        }
+      ],
+      "name": "map65/resources/qthid/QtCore4.dll",
+      "type": "file"
+    },
+    {
+      "bom-ref": "4d5f100296e89536",
+      "cpe": "cpe:2.3:a:fftwf-wisdom:fftwf-wisdom:*:*:*:*:*:*:*:*",
+      "name": "fftwf-wisdom",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:fftwf-wisdom:fftwf_wisdom:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:fftwf_wisdom:fftwf-wisdom:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:fftwf_wisdom:fftwf_wisdom:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:fftwf:fftwf-wisdom:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:fftwf:fftwf_wisdom:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/fftwf-wisdom.exe"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "837524ce74d49907",
+      "cpe": "cpe:2.3:a:qthid-4.0.exe:qthid-4.0.exe:*:*:*:*:*:*:*:*",
+      "name": "qthid-4.0.exe",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid-4.0.exe:qthid_4.0.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid_4.0.exe:qthid-4.0.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid_4.0.exe:qthid_4.0.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid:qthid-4.0.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid:qthid_4.0.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/qthid-4.0.exe.exe"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "8b34c65f63cb05f5",
+      "cpe": "cpe:2.3:a:Qt4:Qt4:4.7.0.0:*:*:*:*:*:*:*",
+      "name": "Qt4",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt4:Qt:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt:Qt4:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt:Qt:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/QtCore4.dll"
+        }
+      ],
+      "type": "application",
+      "version": "4.7.0.0"
+    },
+    {
+      "bom-ref": "a35f878b88d32f6a",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "056663c9fd2851cd64f39d882f6758e7a987bd42"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "b35f2a8f4c8f1833f3cdec20739c58e295758ce22021d03d4335043148bd7610"
+        }
+      ],
+      "name": "map65/resources/qthid/libgcc_s_dw2-1.dll",
+      "type": "file"
+    },
+    {
+      "bom-ref": "bb7382289be03219",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "4b1020644794ec563349a76e9bffb321776447dc"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "098744f57bc35b3853944dd9bd9c2470c2e7c494f11f165c896f4241ed3612a4"
+        }
+      ],
+      "name": "map65/resources/rigctl-wsjtx.exe",
+      "type": "file"
+    },
+    {
+      "bom-ref": "c1ec5f4cb4973487",
+      "cpe": "cpe:2.3:a:libgcc-s-dw2-1:libgcc-s-dw2-1:*:*:*:*:*:*:*:*",
+      "name": "libgcc_s_dw2-1",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-1:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-1:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-1:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-1:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-1:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-1:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_1:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2-:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2-:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2_:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s-dw2:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s_dw2:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc-s:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc_s:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc-s-dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc_s_dw2-1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc_s_dw2_1:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc-s-dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc_s_dw2-:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:libgcc:libgcc_s_dw2_:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/libgcc_s_dw2-1.dll"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "ce8b45a4f62dd9df",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "b9cc10ec843d1b2678be9852e8e30a98f79aae8c"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "42a1fad6061927e773e9085e6544f42c0c7b757d7adfa625f38ee704c8de1c2d"
+        }
+      ],
+      "name": "map65/resources/fftwf-wisdom.exe",
+      "type": "file"
+    },
+    {
+      "bom-ref": "cmake:0b4cfe126386bd6c08e4cf63d3688de3db736db8fda71b72c01a53399c72f907",
+      "name": "Git",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/Modules/GetGitRevisionDescription.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Git QUIET"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:2eca436246008423ab21c2e5b274ff22575d796065e6228494e26ae1adea81ae",
+      "name": "Subversion",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "qmap/getsvn.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Subversion"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:2faee624b02035312df42917eb0ffdcdb17040cb315dd72ff8490d8967888fad",
+      "name": "Qt5Test",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "tests/CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Qt5Test 5 REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:395b171f232ca867e50cd57305cd99dec3bd0a45de3caf0f52d1f35a38d00e65",
+      "name": "Qt5AxContainer",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Qt5AxContainer REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:41cc690adc05e13a75ee48562d87405b1cb3dfc23e7e60765fd941e9d751b217",
+      "name": "OpenMP",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "OpenMP"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:5acf341b9d2b8444bbc8c905a123d35dc0fac576b47670e805434f86036022bf",
+      "name": "Git",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/Modules/GetGitRevisionDescription.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Git QUIET"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:6ad12407926261beeda736382b0fc5b022b4df0f1b95e6859d444144668c6284",
+      "name": "FFTW3",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "FFTW3 COMPONENTS single threads REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:91a85d9059115e2ce0f826dc2c26692a4c79aaa248105b331947c01e16cc7171",
+      "name": "PkgConfig",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/Modules/LibFindMacros.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "PkgConfig QUIET"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:ab181c51483eb4309a8fc3035960ec47701b4d71a09bf72e10bcce5dcc78268e",
+      "name": "Subversion",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "map65/getsvn.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Subversion"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:b14462c57f5f6d38272891333543e6ed14194dcb8c8e8fc6eedf58aeed0f31f7",
+      "name": "Qt5",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Qt5 COMPONENTS Widgets SerialPort Multimedia PrintSupport Sql LinguistTools REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:c9ca631a0b49b846ef409c5f44d884728b26a504f5a8690be4adfc1f1cc8cc8b",
+      "name": "${${PREFIX}_args}",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/Modules/LibFindMacros.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "${${PREFIX}_args}"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:ce635629a4f11ceed0f04856031abe3a456e474e501d32057b77f4429163f93f",
+      "name": "Usb",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Usb REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:cfdf1d95dfe564038b10beb04a53838f68f0619781d600b7b44b6c9fc214f05a",
+      "name": "Boost",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Boost 1.62 REQUIRED COMPONENTS log_setup log"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:d972da322ec04327b348d9e7ff79715386b55e1437e0a26070262e1ba7e57591",
+      "name": "Hamlib",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Hamlib REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:dae93864afb64491f71d06bf51ece79ae2eac04f92ad57ef8246852198f2c228",
+      "name": "Portaudio",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMakeLists.txt"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Portaudio REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:f1d41e42fd4032d44a593c19b1025d4951b639f75c5ac717fe74eb0b0d2f5c6b",
+      "name": "Git",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/Modules/FindGitSubversion.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Git"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "cmake:fc4ddabeb523cd03c304ca5ac4fc313063946bcaf41aae7db4a0357aae7225e9",
+      "name": "Subversion",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-requirement"
+        },
+        {
+          "name": "sbom:cmake-source",
+          "value": "CMake/getsvn.cmake"
+        },
+        {
+          "name": "sbom:cmake-command",
+          "value": "find_package"
+        },
+        {
+          "name": "sbom:cmake-declaration",
+          "value": "Subversion QUIET REQUIRED"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "e47527d340d242d4",
+      "cpe": "cpe:2.3:a:qthid-4.1.exe:qthid-4.1.exe:*:*:*:*:*:*:*:*",
+      "name": "qthid-4.1.exe",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid-4.1.exe:qthid_4.1.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid_4.1.exe:qthid-4.1.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid_4.1.exe:qthid_4.1.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid:qthid-4.1.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:qthid:qthid_4.1.exe:*:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/qthid-4.1.exe.exe"
+        }
+      ],
+      "type": "application",
+      "version": "UNKNOWN"
+    },
+    {
+      "bom-ref": "external-library:0",
+      "name": "Conditional source requirements declared by CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:1",
+      "name": "Conditional source requirements declared by bundle_fixup/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"bundle_fixup/CMakeLists.txt\", \"sha256\": \"43684f4d74d095df900668c282a3915bd83c5b17e6845d13b953e90e125e9dd8\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:10",
+      "name": "Conditional source requirements declared by map65/libm65/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"map65/libm65/CMakeLists.txt\", \"sha256\": \"073b001080da376daf11fe3df541f095ed58732feb8865c839693f7859a2733c\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:11",
+      "name": "Conditional source requirements declared by map65/libm65/Makefile",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"map65/libm65/Makefile\", \"sha256\": \"6135a6dcf49e33647304f95183b11d57cb83a6a903955b75176f2d2a8c928857\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:12",
+      "name": "Conditional source requirements declared by map65/map65.pro",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"map65/map65.pro\", \"sha256\": \"5926b943a102938aa6d0dec5702aeab33f1d6725e41c459b26a152eb0c8bd18b\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:13",
+      "name": "Conditional source requirements declared by plots/refspec.pro",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"plots/refspec.pro\", \"sha256\": \"69cc118f79f5e1e65d0e9b7c34327ee7f9764f31a57bfc0a44508a680b17a353\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:14",
+      "name": "Conditional source requirements declared by qmap/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"qmap/CMakeLists.txt\", \"sha256\": \"b721b7ced43e62fcc31cd8c15dda985e64444530018d1b73dacd877972187bc2\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:15",
+      "name": "Conditional source requirements declared by qmap/libqmap/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"qmap/libqmap/CMakeLists.txt\", \"sha256\": \"a5f7392537ad7d4dcdfb6e77e970ef66fe446725d52aeb2118f6a00fb7188658\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:16",
+      "name": "Conditional source requirements declared by qmap/qmap.pro",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"qmap/qmap.pro\", \"sha256\": \"c99ad02c063d06f5d1094a20a31eb934c866f07157a5f7740ba33d7ecf8b9ba4\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:17",
+      "name": "Conditional source requirements declared by samples/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"samples/CMakeLists.txt\", \"sha256\": \"76cba95ca5322e805d59debb0d0129d7bc64c4df695e15a7d3422e6ff317bd19\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:18",
+      "name": "Conditional source requirements declared by tests/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"tests/CMakeLists.txt\", \"sha256\": \"f8db9dc17b4971eec2545f334bee6e48806608af3a7b0883e48fe33b7a9a7c03\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:19",
+      "name": "Conditional source requirements declared by wsjtx.pro",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"wsjtx.pro\", \"sha256\": \"fd5b785b052c04b6994adee298c658f77fb364cd7693c4f399141ef072142489\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:2",
+      "name": "Conditional source requirements declared by contrib/QDarkStyleSheet/setup.py",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"contrib/QDarkStyleSheet/setup.py\", \"sha256\": \"c48307cb94cd880f55d8764f2db999908c790bad2907685d96e194b758d66733\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:20",
+      "name": "Boost (1.62 at default HEAD)",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:21",
+      "name": "FFTW3 single/threads",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:22",
+      "name": "Hamlib",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:23",
+      "name": "libusb",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:24",
+      "name": "Qt5 GUI/multimedia/serial/SQL/Linguist",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:25",
+      "name": "OpenMP optional",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:26",
+      "name": "PortAudio optional",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; conditional source declaration"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:3",
+      "name": "Conditional source requirements declared by debian/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"debian/CMakeLists.txt\", \"sha256\": \"86b8ee74bf44bc730f1c6d64491aa150817473f75c778ff503c9eca934a78c27\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:4",
+      "name": "Conditional source requirements declared by doc/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"doc/CMakeLists.txt\", \"sha256\": \"1697de7fe08718685cae5d70593580d7992522f70815fcb8243a6165d645b590\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:5",
+      "name": "Conditional source requirements declared by lib/ftrsd/Makefile",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"lib/ftrsd/Makefile\", \"sha256\": \"7ce55a8e147ad68a5eb757db81bebefb3d1351eb84ee00e4838545b968a76215\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:6",
+      "name": "Conditional source requirements declared by lib/ftrsd/ftrsd_paper/Makefile",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"lib/ftrsd/ftrsd_paper/Makefile\", \"sha256\": \"64aec2525adf2f63bf50dea9df5218bc4e60e13f2e5a0724015e732e2de7cd6d\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:7",
+      "name": "Conditional source requirements declared by lib/wsprd/Makefile",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"lib/wsprd/Makefile\", \"sha256\": \"b4d84cf588f33a54b93d261f547d0177112e88ae60b0cc92bd11887004767dfe\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:8",
+      "name": "Conditional source requirements declared by manpages/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"manpages/CMakeLists.txt\", \"sha256\": \"6d0f5480e3a1059b70f12eb5e38578a4f5bf12d9d1d20566972713e987112f2f\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "external-library:9",
+      "name": "Conditional source requirements declared by map65/CMakeLists.txt",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "conditional-build-runtime-requirement"
+        },
+        {
+          "name": "sbom:resolution",
+          "value": "conditional; unresolved version"
+        },
+        {
+          "name": "sbom:declared-version",
+          "value": "unresolved; see immutable declaration evidence"
+        },
+        {
+          "name": "sbom:evidence",
+          "value": "[{\"path\": \"map65/CMakeLists.txt\", \"sha256\": \"ea3b48ee8e58fd63148cf235c223757094efbf2eee3fe24439f83aa6af2f002c\"}]"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "f24afa5abfe9405b",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "66bfe06a16025f574323a0ce64dcc7c8216eb56c"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "56a59dae638d9bb45ce729a5d6fdfb0ecbe88b37047e4d6d20dbdef1fc90bd72"
+        }
+      ],
+      "name": "map65/resources/qthid/mingwm10.dll",
+      "type": "file"
+    },
+    {
+      "bom-ref": "fa7eed21f98af20c",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "6c0c87e3d2ebe6e2275bdd035769abf9ba37ca8d"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "79974f098fb27c84a6b21416ab71bb0904f8ead6b283f8a3c65eec0975072173"
+        }
+      ],
+      "name": "map65/resources/qthid/qthid-4.0.exe.exe",
+      "type": "file"
+    },
+    {
+      "bom-ref": "fac329cd527277fc",
+      "cpe": "cpe:2.3:a:Qt4:Qt4:4.7.0.0:*:*:*:*:*:*:*",
+      "name": "Qt4",
+      "properties": [
+        {
+          "name": "syft:package:foundBy",
+          "value": "pe-binary-package-cataloger"
+        },
+        {
+          "name": "syft:package:type",
+          "value": "binary"
+        },
+        {
+          "name": "syft:package:metadataType",
+          "value": "pe-binary"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt4:Qt:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt:Qt4:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:cpe23",
+          "value": "cpe:2.3:a:Qt:Qt:4.7.0.0:*:*:*:*:*:*:*"
+        },
+        {
+          "name": "syft:location:0:path",
+          "value": "/map65/resources/qthid/QtGui4.dll"
+        }
+      ],
+      "type": "application",
+      "version": "4.7.0.0"
+    },
+    {
+      "bom-ref": "fbd613e3d89fa5c9",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "faa386f9c547134a05b5e605b070f07e729d4de5"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "b08b6a44196099ecee879a3923490bafb9dad4db839c83d03bf5dc9beb8ce101"
+        }
+      ],
+      "name": "map65/resources/qthid/QtGui4.dll",
+      "type": "file"
+    },
+    {
+      "bom-ref": "fdf13fb18119e1e2",
+      "hashes": [
+        {
+          "alg": "SHA-1",
+          "content": "f5c7f7c9b5e7cc0fd66f8fcaa7736477514a9b2a"
+        },
+        {
+          "alg": "SHA-256",
+          "content": "6fe858ff9925e3181a988febdec8a5627e9ca5a5cf718f2ec2413fa5b5e36b42"
+        }
+      ],
+      "name": "map65/resources/qthid.exe",
+      "type": "file"
+    },
+    {
+      "bom-ref": "vendored:contrib",
+      "licenses": [
+        {
+          "license": {
+            "name": "License evidence; see declared files"
+          }
+        }
+      ],
+      "name": "contrib",
+      "properties": [
+        {
+          "name": "sbom:license-evidence",
+          "value": "[{\"path\": \"contrib/QDarkStyleSheet/LICENSE.md\", \"sha256\": \"b28bfae0c047503ac000c27aab1df6a5d0c8a9b22b79d8664fcce49965a90949\"}]"
+        },
+        {
+          "name": "sbom:license-resolution",
+          "value": "unresolved; manual review required"
+        },
+        {
+          "name": "sbom:role",
+          "value": "declared-vendored-source"
+        },
+        {
+          "name": "sbom:source-manifest",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}, {\"path\": \"contrib/Commander TCPIP Mesages.pdf\", \"sha256\": \"d5e4f1cfd72f6570edf1672d72be644447db379683c31b55574abb881045b783\"}, {\"path\": \"contrib/Ephemeris/JPLEPH\", \"sha256\": \"a0f35b54a1a9dce859f54f29efd822a14c2b96b1f85bcc971ffe101bcf7dbd21\"}, {\"path\": \"contrib/LDPC/peg-128-80-reg3.gen\", \"sha256\": \"b62caaf4b5796e905ea61b6ee9d5d420a7cafc9d0b46e8a517cc5908e64f89ef\"}, {\"path\": \"contrib/LDPC/peg-128-80-reg3.pchk\", \"sha256\": \"508b97124ca05621df36e20756d07cc40bf263a30045f54e553f1e9f989f678c\"}, {\"path\": \"contrib/LDPC/peg-32-16-reg3.gen\", \"sha256\": \"d64f42209e41700a3994a84623ac7018ea4adf2642151f024188a59097fa2c44\"}, {\"path\": \"contrib/LDPC/peg-32-16-reg3.pchk\", \"sha256\": \"cfb2f79daeac8a8241e612d934adf0e6d4b513fdb8bf6629c75a2269e70a41e2\"}, {\"path\": \"contrib/QDarkStyleSheet/.github/ISSUE_TEMPLATE.md\", \"sha256\": \"511f193114d956efa2986f26258e10c9de5ed0549d129c66dbf6ab8ac4cd8655\"}, {\"path\": \"contrib/QDarkStyleSheet/.gitignore\", \"sha256\": \"8b6b8eaca7be9554e714ce5f9b7ed39aa6b02a6838ff2a8eadae44707d46e70d\"}, {\"path\": \"contrib/QDarkStyleSheet/.travis.yml\", \"sha256\": \"24b3ca91f347c79ec84a18b0f5784eb669376717e15a463722951f5617453372\"}, {\"path\": \"contrib/QDarkStyleSheet/AUTHORS.md\", \"sha256\": \"35f291ba80555b941199fd0dc51bc5693af6af9b28e7ed68441716146ff92401\"}, {\"path\": \"contrib/QDarkStyleSheet/CHANGES.md\", \"sha256\": \"44503dfa2a15b32530d842414ab3759dc8760a1f8ad237e762aae90993973c45\"}, {\"path\": \"contrib/QDarkStyleSheet/CODE_OF_CONDUCT.md\", \"sha256\": \"52ac0b74c4dec3e9556ffdf30c93fdd1e7e391d2a2bf7470478fdcc969e5c0cf\"}, {\"path\": \"contrib/QDarkStyleSheet/CONTRIBUTING.md\", \"sha256\": \"d54d4e5b5f1e01733e069f2da25c57eea52c5e28faa01125c77f12b3747e2bdc\"}, {\"path\": \"contrib/QDarkStyleSheet/LICENSE.md\", \"sha256\": \"b28bfae0c047503ac000c27aab1df6a5d0c8a9b22b79d8664fcce49965a90949\"}, {\"path\": \"contrib/QDarkStyleSheet/MANIFEST.in\", \"sha256\": \"eb21f2b3d495193220219c16beb00cfbf1130a055c511235b61baad6f1456639\"}, {\"path\": \"contrib/QDarkStyleSheet/PKGBUILD\", \"sha256\": \"9b2aaa805ec0e0509f10d12a9b03a08cde5b6f0a349e13d13707d89d22560e7b\"}, {\"path\": \"contrib/QDarkStyleSheet/PRODUCTION.md\", \"sha256\": \"50f68cb179408fafc026b29a6af39f8a8ec20cb08623e8720ac189aecf988eea\"}, {\"path\": \"contrib/QDarkStyleSheet/README.md\", \"sha256\": \"283ba448d67f14f2feb73428bc3934227d446eb576f0a2dcba49740986b8c319\"}, {\"path\": \"contrib/QDarkStyleSheet/example/example.py\", \"sha256\": \"2301bd3864d190dd202143635c9b806498503c00435917a6122bff44c4cdf8db\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/__init__.py\", \"sha256\": \"d53d80ac82ebd86c4b6eb160bddbb8699319d03942abebaebab5c19d89db990c\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons.ui\", \"sha256\": \"7bfd2b5fd622c7c2b8d3d5bc362a068eebdbbe25073eaab91731ae86e6bfddce\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_pyqt5_ui.py\", \"sha256\": \"f07dd1fe3ababd886564cb7f98e23adc82c0c884e2bbce52de9789ca9ead3b01\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_pyqt_ui.py\", \"sha256\": \"ca0d35ffe6182b2429b6236cb34e56ad76be1f9058e1fa29036e86707bca2c57\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_pyqtgraph_ui.py\", \"sha256\": \"6aabe08fad77fa270642cecd22b9d5f5c2cc1248823ba5b9d11de2a021ad917c\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_pyside2_ui.py\", \"sha256\": \"cb9fcbe50ebc2b92f2d2b281e6f52e116f0a9229c98278f266ab1c57d7094379\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_pyside_ui.py\", \"sha256\": \"fce1b03922c74ab3a8cc93ef762e900ae84b4bd0739019b1896fa83ac2d11af7\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_buttons_qtpy_ui.py\", \"sha256\": \"9e36ffe36fd6dc0ed822dd6daeb597fba1c5741ea07416ed9a35edae685b7f0a\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs.ui\", \"sha256\": \"72031271ea0b0e75621e786238fa6e20d7486bbdd40d5355b32c929179614ce3\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_pyqt5_ui.py\", \"sha256\": \"ce1b1b712cf3eb6fe554157e352f6fa0dce9f3d502b628cbb973088c9cb726a5\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_pyqt_ui.py\", \"sha256\": \"273703ea3e895e57adb0f1853924d3b74febf4cd763034730884e18aa9391371\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_pyqtgraph_ui.py\", \"sha256\": \"0669118902caf0147387d87a88a97528c9dab6478730c8b3cc327ac57636aed7\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_pyside2_ui.py\", \"sha256\": \"1fbe6d2ab806f33a87b1d1c6dda33cdd9f85b9d615b81b03882e9c6b512b628a\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_pyside_ui.py\", \"sha256\": \"d0a6b5cfda16646f82746877a4a19c6e879cd8883dd6a6e960e4dff5f7bbb1b9\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_no_tabs_qtpy_ui.py\", \"sha256\": \"74bc526771b097cc9626c9d62ac057d146a908a73b7980cf7dade24303dbdcf1\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs.ui\", \"sha256\": \"5109fd68a21c9ec60c98e9babcda24d5dfe814bcbbb2efe9e268450ed92bb546\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_pyqt5_ui.py\", \"sha256\": \"ea574baf8ee096bb2270ae29530254dc9a1c2a7f33b134782178550463144209\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_pyqt_ui.py\", \"sha256\": \"194b7b51aed0dab67362cd85bfb53b47ade997c37e5c8982912f05aecd9272f7\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_pyqtgraph_ui.py\", \"sha256\": \"31b26d14b58adbaa49d7a6f55714fcf0dfa20b80a7054db2bd0f616d045fbc4d\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_pyside2_ui.py\", \"sha256\": \"3344eee60e75adaa4089eb82643448f4e5df571a2dfba9b06dac26d948484777\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_pyside_ui.py\", \"sha256\": \"e401d77a31d8899343bc4b1937d3dacccaaaca10b66b68d3d5c9b96795fa4d1a\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_containers_tabs_qtpy_ui.py\", \"sha256\": \"4edbfe07f42547ada3d6f4464a8e7c5785e3f229903390efc34692c4ef5c9d15\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays.ui\", \"sha256\": \"415d996fd95170442eefac14615c15ec763032f41b00764fc9087e557e55fc59\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_pyqt5_ui.py\", \"sha256\": \"fc359784e7b4e279af05aa1a6a82ec4d757c3570d82dc532f33dd9dbb0a6e859\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_pyqt_ui.py\", \"sha256\": \"f5efda9e6d35ea144ad04fc8235c960af2a8a5e7dd643e6399c79895edfc8b6e\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_pyqtgraph_ui.py\", \"sha256\": \"1954ed4e2a21a51498386a17f158b714bd3cbb94f3dd54e59f4a46e81fc8a668\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_pyside2_ui.py\", \"sha256\": \"27bea08d1fab4a361172c8bb56e8feb9d7bb4589202599c67dfc26a604acb50d\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_pyside_ui.py\", \"sha256\": \"57baf2f79e29e7a34fb6369bf506fb415cb606e55ff3fb27b89774ba693eefc7\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_displays_qtpy_ui.py\", \"sha256\": \"a14e22c2f6c4f45d93645396da1590c38699e75f3123df583627da679b2c8505\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields.ui\", \"sha256\": \"85f12b444c4ba1ca910dc657c358a6da0cdae8f57a96cf01581e7acfe66a88ef\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_pyqt5_ui.py\", \"sha256\": \"ec4f58cbe5693600a86e86248658e41de3746e2460df17f1812e8d83fa28b78c\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_pyqt_ui.py\", \"sha256\": \"57485f967f58cea1de59c653a962d51cef0aa3fedb054c7690c8e5df25974bc4\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_pyqtgraph_ui.py\", \"sha256\": \"a2f6c98b97e97fe2f5bb8f09b71321bd72abd9acb463124ce092175891357f77\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_pyside2_ui.py\", \"sha256\": \"75bc87ba141c1e14f536f215c9a7193260614ef2617d1317c2daca091d129324\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_pyside_ui.py\", \"sha256\": \"17c7e08b6e4a25c3fd6842cbbb61978a9f15ee63748eb2ba859e8a860765a7b9\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_fields_qtpy_ui.py\", \"sha256\": \"9ca07d5e5a142a7c3001afa6f85f3b35cf467cd14e3aab56ecfa83835ccb0a85\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields.ui\", \"sha256\": \"4c4af1d08e1241fedb5742d2d11ef702b6b01772a3aa8a7909507c22fe22fc8b\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_pyqt5_ui.py\", \"sha256\": \"9d8e84c4954789aad9f40455326df98de45cc7dd75056365f3e8f3cd271a6320\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_pyqt_ui.py\", \"sha256\": \"876a35b955e78a4196f0e791198fe79903ca959b17a741649aa69f9289bf9104\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_pyqtgraph_ui.py\", \"sha256\": \"95c687205aa97187ef955bd3e7dfebb45769104b0c5f196c7b9e6a668a042833\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_pyside2_ui.py\", \"sha256\": \"580faa608d7252ce887d741f10ea59fd93506065c1f3bd58f4e315c81d098c39\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_pyside_ui.py\", \"sha256\": \"352574a85c42793cdf9c2df127ffc519a7a2a39e97d52abc32440e17d0fb67e0\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_inputs_no_fields_qtpy_ui.py\", \"sha256\": \"fd293938043878c6093fb1e2409b38f41bc99d14247118ca382beefefa1c0413\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views.ui\", \"sha256\": \"f71ae3482a5e3cff239c67e9a371391f04919447cf1ea88864ce415e638c0cda\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_pyqt5_ui.py\", \"sha256\": \"103ec6656b73eed9f72e197c23d17fa33cdf415ab4e828fab5006c9489fc0998\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_pyqt_ui.py\", \"sha256\": \"bad0253bc5e7c301f3f6c8abbdc654782fc308af9a6fe3d3d3f470390ba0f71b\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_pyqtgraph_ui.py\", \"sha256\": \"9cbecc2da9b3c4cc68954a40126f61d445b51e120d3ca4201f965019abf48cfc\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_pyside2_ui.py\", \"sha256\": \"12d143e67ed5b34d9680468a9abca143ba280f524bc9fa61017f8562ee6300e1\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_pyside_ui.py\", \"sha256\": \"9c0ec2f16fea34751c1601e918aad45da1e1256fbaf01b0e03f733201b5c53c2\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_views_qtpy_ui.py\", \"sha256\": \"2dd73a51d4179ef98af9365bbf8c3e0b4c55b7f4052bce4469761b4dd36ebf0d\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets.ui\", \"sha256\": \"c2d79d3108cddd3ad794139fea1f5efb5f161f46d4d0ab011baf031e372206df\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_pyqt5_ui.py\", \"sha256\": \"3792ba19f72112d1a574b5f03ea9732a4bcd2ac43f4705d9948beb3d3ecda8e2\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_pyqt_ui.py\", \"sha256\": \"2ac9f5cbcec18c0a28dabbbed1a4078343bcf1097e51e938e173d98261b9cb9e\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_pyqtgraph_ui.py\", \"sha256\": \"ddf2e3e93980f2ad499f359978749742e588562a02c056c273c92a37315fb08c\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_pyside2_ui.py\", \"sha256\": \"244fb0234b2ded04305e1d71735a57d3cbf514e2620a00a642dc6ae63683eaad\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_pyside_ui.py\", \"sha256\": \"8acea2c21a9335335d29d9d29591ee5f8ab0bd5f3d3baa2413ba5698f0062de1\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/dw_widgets_qtpy_ui.py\", \"sha256\": \"f511c237773822ca42b82f0b677cd904323f708aca4c8123105ea1e5800daa5b\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus.ui\", \"sha256\": \"f2c27ea0e5c46f8acef4db24e1c896a7319610ff61fa24fe3f86cc1711266353\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_pyqt5_ui.py\", \"sha256\": \"267993d79656ab4ebfc24430d99d1a261a9ae09e18c9fc6cea4e25ff6aee5ffb\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_pyqt_ui.py\", \"sha256\": \"29d3131488bb2e369b4e4fcbb0b01885bfdbffb4ddd34d548458e501c4a4aa82\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_pyqtgraph_ui.py\", \"sha256\": \"7f04eea1247bf1bf441792e287e6f870ff6db450006b67aacf25534cd2bad5f2\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_pyside2_ui.py\", \"sha256\": \"987daad171f2bb15003df1ce976770c9d6af4b441deb404b618bb116033a596f\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_pyside_ui.py\", \"sha256\": \"ac7f807b90e2bc88c3b80aacc267fe364644079d320c60a2e98bf3e3a4ab4095\"}, {\"path\": \"contrib/QDarkStyleSheet/example/ui/mw_menus_qtpy_ui.py\", \"sha256\": \"dceeb15888b8d09d735ad7145a53cd5dae2d5b91029cb7e8a8d5a1cd6c4d8e92\"}, {\"path\": \"contrib/QDarkStyleSheet/makeppa.sh\", \"sha256\": \"f180d5635fcbeea9e7aa87cc6de3cdc45163ff00990297345ca40ed163887fae\"}, {\"path\": \"contrib/QDarkStyleSheet/palette.png\", \"sha256\": \"3eebefce7e4f02b619a67b2e0117a72a34522ea7572d7b32e5667521b11d5849\"}, {\"path\": \"contrib/QDarkStyleSheet/palette.svg\", \"sha256\": \"c103c5fac0ddcd958c3859c4bc02829c1f284e72ead20593e20e21d9bfea7132\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/__init__.py\", \"sha256\": \"585ac040e64c5c735cb8140a41e24ba62d35dcf17a8fe16c7425b218e08ce84e\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/__main__.py\", \"sha256\": \"3c563543adb5c23c792e4f0f7f955d90d552630c3f1dd476da8697b7c57578ed\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/pyqt5_style_rc.py\", \"sha256\": \"edde4033650417b1d352c5535cead9bb533265d04d8cde13a87f2ddd81fe7c57\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/pyqt_style_rc.py\", \"sha256\": \"92d068ebc462da22e39b08cc966f91bd6115562725ba942cbaa28429a97bd0fc\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/pyqtgraph_style_rc.py\", \"sha256\": \"c3a535a504772786a7b18704c515560fd82f8b2de08a61b30f85992ad190baf7\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/pyside2_style_rc.py\", \"sha256\": \"59a6b2c4909ec213b18f58785b677adfd516c23e7708b63d0fb94fa849a70127\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/pyside_style_rc.py\", \"sha256\": \"5882ea1f3b338c22f25692a7b1d8a963708a9f5095c6da676ec253bd574cce30\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/qtpy_style_rc.py\", \"sha256\": \"040d263d7799966992bafc013f34970201f775ef48236e74048491b1517f413d\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/Hmovetoolbar.png\", \"sha256\": \"317b0072e384ee74c83c03d8b9a7fd3c304c283049cf7e4e31818de17eed49ea\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/Hsepartoolbar.png\", \"sha256\": \"3ec564d82274aa3b378886c19c15ecf2ce64059a0d32a81d4c6909b3ba2d0133\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/Vmovetoolbar.png\", \"sha256\": \"1db50353641e7be028dca9f3bfe7cbbf6784729cb57eea4bb582e42a66735736\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/Vsepartoolbar.png\", \"sha256\": \"8febe3d3b6a49902aa910d1489b659e70807da07a5d4af2695388fadb7f3627f\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/branch_closed-on.png\", \"sha256\": \"8704fcc6dca7397c3e5fe50ec44d364e192eb6d6c704ee373f036c240e4e97ca\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/branch_closed.png\", \"sha256\": \"c644f71dd77e2fa8c67271df88c10e47fc1ce4910be62832a35900dee88ca4ed\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/branch_open-on.png\", \"sha256\": \"72ec15437e296833749e85bc195a3660cf4139fb35e19f05e7574051b8a84b10\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/branch_open.png\", \"sha256\": \"307b068e2148d5091e1659852e434fa2f12102bdca80d4fbd293ea905f58a901\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_checked.png\", \"sha256\": \"746220f7189b7bc6ebd586802dec0b2555faf06186bae1b0ee0bd5344a974a65\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_checked_disabled.png\", \"sha256\": \"df9c2f41aff4786822364b9ed05c74b3dc0bb8de3b39d0d57f14b3d51f6e50d5\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_checked_focus.png\", \"sha256\": \"f7bde9ab8cbf889105746e10739640d20fb6f95c027e3cc18044aedf0c68d68d\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_indeterminate.png\", \"sha256\": \"787d98ceffd9f2c0dc727c1667fcd9d658cd402ce6514f1643f70c590bebdd70\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_indeterminate_disabled.png\", \"sha256\": \"a0c58dd5b998a12b4e40698a93f5ab23df283f5c0c08e60332d23be0ae086af7\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_indeterminate_focus.png\", \"sha256\": \"0eebc6f15a6624b2e7ccb91041219143d8b38e1cd7509e70c197f414b9c14026\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_unchecked.png\", \"sha256\": \"34185d163c2f5ecbb54ca858f0499e4d5f692e742b0aa42f9e43100eb97dc2e5\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_unchecked_disabled.png\", \"sha256\": \"7821a15acee59ff40c8b68e0d38bb2da7dd997763d5d64cc1646ddf9c4c8b23a\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/checkbox_unchecked_focus.png\", \"sha256\": \"ec1b8a87559556f86cc69526750d1d26a81e021b5ab61a78a22373042ac9e162\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/close-hover.png\", \"sha256\": \"5391053033b8ba59168c8ac926a0e3d74f0d326f7057be6313c7fcb570f945b7\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/close-pressed.png\", \"sha256\": \"926cccf1d89f50c8cbca420038129d92467fa66bb0b5bc173ffdb72c4bf2fbc5\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/close.png\", \"sha256\": \"c50700dc35a9a995c2fce268c98d6beeed8301fd9788695c155e72345ddd21f8\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/down_arrow.png\", \"sha256\": \"02f5828bd121827e8b45ee8c79f225d37904c491dcb8d650572d0bd86e158221\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/down_arrow_disabled.png\", \"sha256\": \"faded57c70db73180d9f193d6257d511d8dcb5f4047ed4350cfcc7cdc9c2b8d0\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/left_arrow.png\", \"sha256\": \"700595b5311e3ce02561a7281648bddd0e8731563dd2650de9afde7cd2915b76\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/left_arrow_disabled.png\", \"sha256\": \"40a95936d66256a016b58b5b9fb8efcca6bdd04643eea2b7d204cc52688850db\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_checked.png\", \"sha256\": \"cae00e5b85995468f94cd50119f3ebd1efac495edfdd656afdc40de1a5dbfa4c\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_checked_disabled.png\", \"sha256\": \"f55cb6e1fd95ffb88dfb66f68301aa50ddb4a30f8789add8c3c6231481a26192\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_checked_focus.png\", \"sha256\": \"bb15cf01885d3f02630329dc6d6f0e195539cd13d715c6420a95f3c90757a71e\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_unchecked.png\", \"sha256\": \"a3a167314378126f225e58d56d0d68cdd4221df5c4577c9203e1a9e55f811c57\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_unchecked_disabled.png\", \"sha256\": \"8dedd4b87fb0e92e971a93a544f1cebed37161c9f2286c5949fdc60f4703c7bd\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/radio_unchecked_focus.png\", \"sha256\": \"5f653ebfad78c5088fe2c058df503688002644fef9f53c871347d9a63f95b0cf\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/right_arrow.png\", \"sha256\": \"d1e3f75177e9518d73fb292a383c4f92e4e7344c58b987784dd246368d0f3998\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/right_arrow_disabled.png\", \"sha256\": \"91ea3572b83de327ada1c18631f3308d8194a45d50f12d9f9092e1d1914051f8\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/sizegrip.png\", \"sha256\": \"4aad43d066680825c705cecbbb467d315ab3dd7234e172e74abb15105ea86ef6\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/stylesheet-branch-end.png\", \"sha256\": \"8b1db3db115a1d34a9ec174b3db7c4b0a909f60fad27531d0cfa87601c4e2c91\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/stylesheet-branch-more.png\", \"sha256\": \"629ab92996ddbc1f156efbcf87bae32effa66d95a9dab56b48f4b30d82df48c8\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/stylesheet-vline.png\", \"sha256\": \"966c3f8f79a0d35c97e8625beabd2c6f15b0a2b0630f77a455621b5149aaf1fb\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/transparent.png\", \"sha256\": \"a675b38935226b8bfcdc82cacad19865f4d57634013e0e2e8f4eecd170d9f863\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/undock.png\", \"sha256\": \"1116d81bc933d7a819c327c37bb5b369bf04e319e27f2d090774c8cc660aa8da\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/up_arrow.png\", \"sha256\": \"f7a2461d6470d047e9a0d879c47e172dce7fd49fc148cfaf7f4873dd615da033\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/rc/up_arrow_disabled.png\", \"sha256\": \"ea32825402b0e84b8a2755a06878395be5a51e4fbc724420e38ab662af96f340\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/style.qrc\", \"sha256\": \"ee24dafe0d974d4d9fad4a9f3948685e4fa2ee6e157129a1efd18b8c430d2528\"}, {\"path\": \"contrib/QDarkStyleSheet/qdarkstyle/style.qss\", \"sha256\": \"02757853b336d37404429ce54ceb0b30c751b808bdba70db0d44bbdd9563065f\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/cmd.png\", \"sha256\": \"ed473818f66f42a594a1db12696045269f3edabd06ca824e13a0e99c740f55c6\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/no_dark_containers_buttons.png\", \"sha256\": \"897c1558d3c8541a7b49de4534eb3a8bd889f6a7954cc6cad8da46b9aeafc204\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/no_dark_containers_tabs_displays.png\", \"sha256\": \"28dbc040547e0c953ac8ab39730c61ca3f28dc7eff0765593675f379a83a7a62\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/no_dark_views_inputs_no_fields.png\", \"sha256\": \"a29e5b4d92ee6f6ab3823acab2e3ac20f3be94fc272f53bd134790a2fe3083cb\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/no_dark_widgets_inputs_fields.png\", \"sha256\": \"1ce4fbeeb9673526dd5d80f24528cf5301ed3e816092a75199f9bca2371c3bcd\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/qdarkstyle_containers_buttons.png\", \"sha256\": \"3b5da1f81dc8a98b9608cfd2a225f7409852472f3a00d8d99c7105b617c56804\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/qdarkstyle_containers_tabs_displays.png\", \"sha256\": \"5e96a4c4792b9f0edb6122baab7fb023c5c48526ce716db9bec08dee528d1cac\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/qdarkstyle_views_inputs_no_fields.png\", \"sha256\": \"9e9be4ac9e2c3d0d7fd8b28ab3514366186b43ed8a10c44998a90d5b50d387c0\"}, {\"path\": \"contrib/QDarkStyleSheet/screenshots/qdarkstyle_widgets_inputs_fields.png\", \"sha256\": \"def7d1843351832936a39d93f76085334bc7236ffd44c0954f37d5ac3e1608ab\"}, {\"path\": \"contrib/QDarkStyleSheet/script/get_info.py\", \"sha256\": \"4619f35f34b6c6e476dac2d8e26f79825e3b77dd81ae55623dc687ec683598de\"}, {\"path\": \"contrib/QDarkStyleSheet/script/process_pypi.py\", \"sha256\": \"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\"}, {\"path\": \"contrib/QDarkStyleSheet/script/process_qrc.py\", \"sha256\": \"04fb87f2c64f29e696931100076c9acffd848c3cd8260220126ec14f59301854\"}, {\"path\": \"contrib/QDarkStyleSheet/script/process_ui.py\", \"sha256\": \"48ffa21c18daed9d6d6177a379d21aa3ab238b34059d3f572c659dce3064bc04\"}, {\"path\": \"contrib/QDarkStyleSheet/script/run_ui_css_edition.py\", \"sha256\": \"c4904341d9facd839fd2f5de87f4817c0e6caebd73006a0687e0fddfd4a3b29a\"}, {\"path\": \"contrib/QDarkStyleSheet/setup.cfg\", \"sha256\": \"11d90006a9306d93b24b8bc3e50086bb86abb79b2eb62838b7a0d9ee0a3d494e\"}, {\"path\": \"contrib/QDarkStyleSheet/setup.py\", \"sha256\": \"c48307cb94cd880f55d8764f2db999908c790bad2907685d96e194b758d66733\"}, {\"path\": \"contrib/QDarkStyleSheet/stdeb.cfg\", \"sha256\": \"c180807fe0a17b2b70faab7bf6fbb3a6438d93693d0f6e180139d52d5c62826d\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_checked.svg\", \"sha256\": \"b4c2cb022a9f4ae07ab6fa4958dc5d84bedb277ebbab51a2069cf6261b724647\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_checked_disabled.svg\", \"sha256\": \"562690963429627eb789630552c79117c1bb5ecca573352dd57e3d435b5fba00\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_checked_focus.svg\", \"sha256\": \"ef4ffdc1f99bf852632f6836c15ad8d83a1752546a4e7f8488f635c4c2485583\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_indeterminate.svg\", \"sha256\": \"79c1c0ff9266992eeda4c00616671777c721d018d0b6a41a3292426cf28149e9\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_indeterminate_disabled.svg\", \"sha256\": \"d6c8719efa3611d58f1d9ea0f208b112e2514e265fd963d9d5b3ab475ccd07e4\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_indeterminate_focus.svg\", \"sha256\": \"0bcabbceb5ccfc3a487572088786bc6c84361e43f66622e2dd5bf10fe299fa75\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_unchecked.svg\", \"sha256\": \"eb47fc1f6d06c59c9a82d054d507b681b9daba61d16229e0db8cd8d28036c8f4\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_unchecked_disabled.svg\", \"sha256\": \"ff99d79e375151148bdb21efc21db36ced2f9fee2533e28764388b335f14af55\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/checkbox_unchecked_focus.svg\", \"sha256\": \"12b60c6db418c594c9088d9288183a171c57203e01aada6f2464a60bec28bbc3\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_checked.svg\", \"sha256\": \"a3f07319af87ebdbaff4204bc17be133520c0b105c77a0a00cc41faf64c85ef9\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_checked_disabled.svg\", \"sha256\": \"e034874a4d1da120cb78eb46453632afc969d8aad6538123732786e2f4196ad4\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_checked_focus.svg\", \"sha256\": \"bef6af862c15a6cddaf42e70829056f69b1ac72c18e059f20bd191bdc2801e69\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_unchecked.svg\", \"sha256\": \"275ed89c108e50dc266239d262815ef956be6d147ae5d171ae04a090b8afcc80\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_unchecked_disabled.svg\", \"sha256\": \"7030041f90d786ed84a8e49292a6143f8d1f086bf13105789d13d1a43b39f592\"}, {\"path\": \"contrib/QDarkStyleSheet/svg/radio_unchecked_focus.svg\", \"sha256\": \"fc8b2f800b8502a73817d7ebd1172c4f8c978daa4660d2e0c20b7b34747a89d2\"}, {\"path\": \"contrib/QDarkStyleSheet/test/mw_for_ui_tests.py\", \"sha256\": \"610fb89d9039097d780a4195ab1345bf9294b39808d61fd8eb13224fd66a0f41\"}, {\"path\": \"contrib/QDarkStyleSheet/tox.ini\", \"sha256\": \"23c9ab38674f914c78584d233532efa6207c97a071762a1d15c512ec6978f379\"}, {\"path\": \"contrib/gpl-v3-logo.svg\", \"sha256\": \"40f52cd3358fd532fce825776c251f069d37b58646aa6a91e63f2c61e64f3399\"}]"
+        },
+        {
+          "name": "sbom:provenance-verification",
+          "value": "unknown upstream origin"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "bom-ref": "vendored:lib",
+      "licenses": [
+        {
+          "license": {
+            "name": "License evidence; see declared files"
+          }
+        }
+      ],
+      "name": "lib",
+      "properties": [
+        {
+          "name": "sbom:license-evidence",
+          "value": "[{\"path\": \"COPYING\", \"sha256\": \"b4bbff835ca86b6051284a77138b7b31db215fb3e8aa70221464126cc9ad60fa\"}]"
+        },
+        {
+          "name": "sbom:license-resolution",
+          "value": "unresolved; manual review required"
+        },
+        {
+          "name": "sbom:role",
+          "value": "declared-vendored-source"
+        },
+        {
+          "name": "sbom:source-manifest",
+          "value": "[{\"path\": \"CMakeLists.txt\", \"sha256\": \"c2bc2d550bdb2cfa9ae2d12d21b21177bd138a573446a3382db732b220246114\"}, {\"path\": \"COPYING\", \"sha256\": \"b4bbff835ca86b6051284a77138b7b31db215fb3e8aa70221464126cc9ad60fa\"}, {\"path\": \"lib/77bit/77bit.txt\", \"sha256\": \"dc465fc14ab13d95378896029355d23becadf66976935a325879f825174894f8\"}, {\"path\": \"lib/77bit/CQ_messages.txt\", \"sha256\": \"0a80d9e6fcd0eedcab73ecdef5db7784fee09bc02f68cb225845224688fa21a3\"}, {\"path\": \"lib/77bit/NewCode.txt\", \"sha256\": \"8c6fc93de1bfbb412d221b1411943d6f6c48ca3063980048fc47286222b8d3a9\"}, {\"path\": \"lib/77bit/New_Features_WSJT-X_2.0.txt\", \"sha256\": \"7db8fc3b3c644245925c3dd8668581b56796b2e508c8a25a8ebb31c07a70fb05\"}, {\"path\": \"lib/77bit/all28.txt\", \"sha256\": \"4bc95aff5d2a1f5ed3a20d29f5c1073bf77af5df3fb023239802ddaf4f1b47c7\"}, {\"path\": \"lib/77bit/arrl_sec.txt\", \"sha256\": \"8fea9c2f35005448917dcdb94d5e8b5f822c46cb45116835b79ad96721809e77\"}, {\"path\": \"lib/77bit/call_to_c28.f90\", \"sha256\": \"be0db31cba03079127ddc02c11e44c88f570fab61941033f5affdea838713c91\"}, {\"path\": \"lib/77bit/calls.txt\", \"sha256\": \"56d10db8df16b50e9fb6baca99cd92e4a689134b29de8f110aa6a0f85706c344\"}, {\"path\": \"lib/77bit/calls1.txt\", \"sha256\": \"09a9eab5c7b841a92a566233cb6512d3a50ed1110aa33407bbcd4d93b042a89d\"}, {\"path\": \"lib/77bit/calls2.txt\", \"sha256\": \"35792aaa6522ac3398253046317e9f6cebea0e59ba6cea95ff07e07f9aa6d744\"}, {\"path\": \"lib/77bit/calls3.txt\", \"sha256\": \"94057726d546cd20ddb02705a0026cf6384e45a1526ce3d1aced7a90dbb838d6\"}, {\"path\": \"lib/77bit/encode77.f90\", \"sha256\": \"85cb64af2959db1da35b8b04f8e4c3c40c83fe684866ca8a1a1776820a14199f\"}, {\"path\": \"lib/77bit/encode77.out\", \"sha256\": \"71fd9aba858630eba14df1d89fea426bd15fec0f012f95626367eb91c208c6c3\"}, {\"path\": \"lib/77bit/free_text.f90\", \"sha256\": \"0b4f56303251bc30d090fb3d208630e6180a7620c36b4fb91be935645913e1cc\"}, {\"path\": \"lib/77bit/g2\", \"sha256\": \"755a95d3dca1ae166e0f2d1e1eb37b678f3546022e38010e32a96ee59718cf63\"}, {\"path\": \"lib/77bit/g8\", \"sha256\": \"3a4e02cac0202b5c0da18fee1af968fe6cfff84d9648e97c2d20775d9d829683\"}, {\"path\": \"lib/77bit/hash22calc.f90\", \"sha256\": \"75c448f3c2cd2fca1a1a86e5fe6944220ab1773ebb66d44e3b742d5e397976b5\"}, {\"path\": \"lib/77bit/messages.txt\", \"sha256\": \"5b7f9f698767d10bb7599c00b8579330d3ed0632db223679b1de9380ea7cd8ff\"}, {\"path\": \"lib/77bit/messages_2.txt\", \"sha256\": \"2415ac546e41b11b2c0db139615d6237e854a656006d4e2d450b9df35635abbd\"}, {\"path\": \"lib/77bit/msgtypes.txt\", \"sha256\": \"c30d43b0fe04cbfdc7c9836d07e9d67222ad4af861ebb6185ebe94388133f52d\"}, {\"path\": \"lib/77bit/msgtypes.txt.0\", \"sha256\": \"3a981da1163b37eed67fbc8256ea02d48eb2e37ecb7291bba40b057e8c773a47\"}, {\"path\": \"lib/77bit/my_hash.f90\", \"sha256\": \"8cb725ac93ec228d965a482c525abd7b8622e4c85c65065b21b17d23452993a9\"}, {\"path\": \"lib/77bit/nonstd_to_c58.f90\", \"sha256\": \"c2b70562ceb23a14435371746512a25b59d5ce177659f3e6a0d21b3a33cb16b1\"}, {\"path\": \"lib/77bit/packjt77.f90\", \"sha256\": \"6d082d0a28b23231ad62bceeb83a70f12e206cfb5657a8ad82f55c0c5701434f\"}, {\"path\": \"lib/77bit/parse77.f90\", \"sha256\": \"806693f055548034bb01cb38ca8e5848177b6adab3f89c070947d2125e9d2131\"}, {\"path\": \"lib/77bit/test28.f90\", \"sha256\": \"fa4625f417cdbeef1d4e6c2cc6714a8e9f6f4e02d7eaa3377ee1ade7232253dd\"}, {\"path\": \"lib/77bit/test28.txt\", \"sha256\": \"dba9daa23c06408fa880786b049f1dd77f161fe2d68fe31fad09a4467d5b665e\"}, {\"path\": \"lib/77bit/todo.txt\", \"sha256\": \"b4a98832634ebb0e609e9455b9216a75f58e1afc8905cff212b0bb22d2265f3d\"}, {\"path\": \"lib/77bit/tokens.txt\", \"sha256\": \"6ac113bbf10e9795b7203a03b3f385694d4690fe41e1c5a9376bb59bd84949d9\"}, {\"path\": \"lib/77bit/wsjt-x_v2.0.txt\", \"sha256\": \"7a7b3bc3b523cfcfee9068d6aa4f13e9241b54610f5cc1231009648b8f85e051\"}, {\"path\": \"lib/CQnnnCAT.txt\", \"sha256\": \"c3379b800dfafb6397a690f3a699e04fdc7ab519f70e4c72e2c78b7426271e2b\"}, {\"path\": \"lib/C_interface_module.f90\", \"sha256\": \"a8bd0ae849b5f8eebdb01df827533f4dc8c3f91907ca7933530f0b7b636c7c41\"}, {\"path\": \"lib/DXped_Operations.txt\", \"sha256\": \"593d7d108ca7a29c910a9679f97b99db225f59bef695eba739e732cbab61120e\"}, {\"path\": \"lib/DXped_pseudo_code.txt\", \"sha256\": \"df68c7887222480172532cf61e30a149adaf28be1758eb0782a9df540e2e4098\"}, {\"path\": \"lib/addit.f90\", \"sha256\": \"3532d1dafa34f7fde5d1c776b0a2697dca4dd83806abab31d2996110acd3f832\"}, {\"path\": \"lib/afc65b.f90\", \"sha256\": \"6c2b2b4e3541fd9774c92cd6052b0d478817a70ec328d91d4884ece70dac8d32\"}, {\"path\": \"lib/afc9.f90\", \"sha256\": \"efa9cedbd727e1493e1dafb7c2312bdfb039a868a48cd1fb658b89a53cd1662b\"}, {\"path\": \"lib/all_fft.out\", \"sha256\": \"22b5401d1cb6dd79e997ccf32a3a9fb2d47c7788a016537b665cc3fd415caf50\"}, {\"path\": \"lib/allsim.f90\", \"sha256\": \"6e70b5e2a8c61d6248bc3581312ef811b27791849f84fb87fb445a103292628a\"}, {\"path\": \"lib/ana64.f90\", \"sha256\": \"ec4a57becc19e82864928c13787393ffdb443bd3e55a5ee181172227b59847db\"}, {\"path\": \"lib/ana932.f90\", \"sha256\": \"8599c7d24199e9a665a697605985d7f8342db157311f0dfcba9f6a7542af8c08\"}, {\"path\": \"lib/analytic.f90\", \"sha256\": \"2bdb309ee77f3094901913687b8edc1fc15c6df363e5d203b9f831ad0806ab51\"}, {\"path\": \"lib/astro.f90\", \"sha256\": \"bd6f3a9abce1d88fd71d3afc15a146d5a6db07a39673f5ccd78b3d22b836e295\"}, {\"path\": \"lib/astro0.f90\", \"sha256\": \"de4b85a70876cc48f37f64c0be98fb28c898f25b39336fcfc1bd827111a87219\"}, {\"path\": \"lib/astrosub.f90\", \"sha256\": \"b0b418d5f588feddd1e9caa036aed46a837e00ff4841a0f2fe4abeb86a8cffc6\"}, {\"path\": \"lib/avecho.f90\", \"sha256\": \"bc06b231163ddb60d76801f93cb2a79ff7678e31a8b4d1daf1b5065c57996cb1\"}, {\"path\": \"lib/averms.f90\", \"sha256\": \"8129f5342bb13639c74fdcf9e4960cc45446e67e6e0386538930ecbbe97b555b\"}, {\"path\": \"lib/avg4.f90\", \"sha256\": \"a3b62bab25b107150560509cc66781aba08a67e1af3044dd7154f692fb44823c\"}, {\"path\": \"lib/azdist.f90\", \"sha256\": \"b7fa4ccf9ac1b2393ae284700fc9afc7bf01e55989dd2013a1465dc92fa94b40\"}, {\"path\": \"lib/baddata.f90\", \"sha256\": \"789d16dca2df9584c5eac4bcc13552567a4cfb0463701237416368a9ed7f0437\"}, {\"path\": \"lib/badmsg.f90\", \"sha256\": \"9551150f66c698d911256381674466d14dab91f29c804fb9b3a61948a7f98a40\"}, {\"path\": \"lib/blanker.f90\", \"sha256\": \"8a833c790c410326d992bb72faaed6bb2f9fbaafb34c071238a7eae838ea74a7\"}, {\"path\": \"lib/bpdecode128_90.f90\", \"sha256\": \"0e973fabacacce63998553fb8d3d502a4128247ffdadf48723a131aecf4c8d8f\"}, {\"path\": \"lib/bpdecode128_90.f90.save\", \"sha256\": \"cbc39e8b6dd58638a71f51ee6f1eb4967cc6977470a6b6a6803b750b12905fa1\"}, {\"path\": \"lib/bpdecode144.f90\", \"sha256\": \"b9a649097a87ac744fc64c4496f69f89a318fd95695474f320b269196c94610b\"}, {\"path\": \"lib/bpdecode40.f90\", \"sha256\": \"e48e236ea7f3bd48eca08edb259a515c5c522ee9f914e38a07a192e9ed88408b\"}, {\"path\": \"lib/cablog.f90\", \"sha256\": \"46eccb842d71cfff021f851b447b4473b841b4282d1d9acea335d9d306a17954\"}, {\"path\": \"lib/calibrate.f90\", \"sha256\": \"4a40f2578b340f8295115df0b2cb9a403e9dfb1ef064e13d81e7da2ce6f2b512\"}, {\"path\": \"lib/ccf2.f90\", \"sha256\": \"fd22f0fcfb5893740b272bdef9f807d6d101a9b33206e07d64580c58a1e810b2\"}, {\"path\": \"lib/ccf65.f90\", \"sha256\": \"c2acb728af5913e9f2e3f729e5f90e83832c2d29f20f609635a7929df8906e06\"}, {\"path\": \"lib/char.h\", \"sha256\": \"dd2ae7fc88bf2efbc49398ed21d68032584d62123885e2d5e9fe32a20ca0356e\"}, {\"path\": \"lib/chkcall.f90\", \"sha256\": \"863e68d6b489d847b85dde99c048fb1ff2358ab4fd141d528a4fa58a6dad5b41\"}, {\"path\": \"lib/chkfft.f90\", \"sha256\": \"b21b88ce4b8bf0988ab1c4d2864895a998a5a38fb2f9d1f63876e8fc47af9e95\"}, {\"path\": \"lib/chkfft.txt\", \"sha256\": \"f0d6efe9468094d9fd2d7c5f3ee78fdbadc2044a127d7032295d24235f32614f\"}, {\"path\": \"lib/chkfft2.f90\", \"sha256\": \"9ce95edf03fc167cf4fc94353e03c2e5f927251a1dcddfc3c8dc3de58ef12318\"}, {\"path\": \"lib/chkfft3.f90\", \"sha256\": \"0ed7c9246ed68aeac84037bcc4e4b5c639009b4adfe044a14d3eb6cfca85419a\"}, {\"path\": \"lib/chkhist.f90\", \"sha256\": \"64f0849abc8959191fcda7f84f8ff7607c7e044269cddb7a1554c9ac7aed2e84\"}, {\"path\": \"lib/chkmsg.f90\", \"sha256\": \"c323ce97e01a2546007081710b7ccce7f672dbe2d654c954bcb40bc5fdbf709a\"}, {\"path\": \"lib/chkss2.f90\", \"sha256\": \"d654959e16585402b3e291d4f32d5b0345442b9b5b4cc6aa5718960910e94dd5\"}, {\"path\": \"lib/code426.f90\", \"sha256\": \"5a766ede3f19c906b277c36324a3cb2bad6061155465db1d027cb9e51f46374a\"}, {\"path\": \"lib/constants.f90\", \"sha256\": \"cc235112e28882ef113667baa80a7e4e31378b73890c8d446bd7c7629a59dbbc\"}, {\"path\": \"lib/contest72.f90\", \"sha256\": \"7c8abe881f19461c4698f15737043dd33d38994d6f4e56c3cd5dd13923efd151\"}, {\"path\": \"lib/conv232.f90\", \"sha256\": \"970006c7b4ea508389a998a16277b58d05c7c572e527338678bf16279221455b\"}, {\"path\": \"lib/coord.f90\", \"sha256\": \"ce50eef4e37e2bd7bcdfebb23a7b066a4ea58c7d6ca96ab2aff99a8765e70b55\"}, {\"path\": \"lib/count4.f90\", \"sha256\": \"b082953b0e41af5e9213bf8e07fad62310fe3fa65233302d838264418b0e4d07\"}, {\"path\": \"lib/crc.f90\", \"sha256\": \"e9c12e0cec0c511440200b158760e80410ddacc499c7a9a71091394af232f9fe\"}, {\"path\": \"lib/crc10.cpp\", \"sha256\": \"38135ec51127a8ffd3556cd651f5f1c06fb9c4783b30c1fe8d6ac3dba6088c95\"}, {\"path\": \"lib/crc13.cpp\", \"sha256\": \"99c5068a24020f30148d057b92534815a13ac47613b47925da798ee9d90efc8a\"}, {\"path\": \"lib/crc14.cpp\", \"sha256\": \"0066a88d9920bb27d2a4925eee7c581338d5375a30eb943dc890f99bb69715e7\"}, {\"path\": \"lib/cwsim.f90\", \"sha256\": \"b3292f578171f8982726c1abada3a8521318879e93194c772ae4696470138a2a\"}, {\"path\": \"lib/db.f90\", \"sha256\": \"144b3bfe8618d5e8f50d6fa212a891ee294b05cb877dbfc9fe3899fa7f1e84ad\"}, {\"path\": \"lib/decode4.f90\", \"sha256\": \"1a1e7774c658b5025ccb9a27f3501a25cfafb095d55b299849cc95261b85b296\"}, {\"path\": \"lib/decode65a.f90\", \"sha256\": \"2c167f2472cff94ecb5c431902b9ff52326449ca45f07b42a4ac627456046c2f\"}, {\"path\": \"lib/decode65b.f90\", \"sha256\": \"24cafffc4eaf1780937a06867d28c206fb3d65cd5a5af5e5aa2bf34d762ac005\"}, {\"path\": \"lib/decode9w.f90\", \"sha256\": \"da4c9061aebb148e2470942862ab09337a23ec2f3368b2e7c7d94484c8018886\"}, {\"path\": \"lib/decode_msk144.f90\", \"sha256\": \"6e9f6de523d9143287f42f50f76e9b1b23c78d9e93afcc58ab108c4c41aeb258\"}, {\"path\": \"lib/decode_rs.c\", \"sha256\": \"60fd7468263f40852bb702ecfc1d8550383f6804f95c3ba94ace5604c7a45d08\"}, {\"path\": \"lib/decoder.f90\", \"sha256\": \"eb23c5901e7f7ec9a6c490b86801f79faa9990f3ebe09c837ede90394880aeaf\"}, {\"path\": \"lib/deep4.f90\", \"sha256\": \"eb0960577dbafb93300bfc1fbaf9fc2a029b624901115415dc8cf564434b2326\"}, {\"path\": \"lib/deg2grid.f90\", \"sha256\": \"e7ef6cc0ae8782659e503347b29123c8c4748a3358a4cde70997f080de9e555d\"}, {\"path\": \"lib/degrade_snr.f90\", \"sha256\": \"a306f000762fd372a4bf6590f773a8f77052d0bf8aa8df7b85986b15345598f3\"}, {\"path\": \"lib/demod64a.f90\", \"sha256\": \"8a1023b026fe68d7b18a77b2d3ab3bcc429cd29bf7a87372f38ab99ba6019aa1\"}, {\"path\": \"lib/determ.f90\", \"sha256\": \"a483fd8c1306695eaa1b1e3ae2fd25e435205d3d75d9449564f7a8a3d09b2cf8\"}, {\"path\": \"lib/digi-contest.txt\", \"sha256\": \"363f46575858e8ed962871943a4596ddbbdbe830c523a4510943e56c22753355\"}, {\"path\": \"lib/downsam9.f90\", \"sha256\": \"625084a68d934370fd2e7c61119a2db0a7a7d10efddffa6815d00576ffb81462\"}, {\"path\": \"lib/dxped_fifo.f90\", \"sha256\": \"d53ea78b75217b3f55c076bb885c6548eb9ea1dc8f01c1cc014ec528c585e1ff\"}, {\"path\": \"lib/echo_snr.f90\", \"sha256\": \"7b1615dab253fd43e72c7e97a74f19dbaa8f8d5fa44eb11b309b22a03ba7bf0e\"}, {\"path\": \"lib/echosim.f90\", \"sha256\": \"69009a93d27fa4e84e720fe6b74bd6f1d242a0baf2b65333ce2e70f9b2cd8bff\"}, {\"path\": \"lib/emedop.dat\", \"sha256\": \"72d0ca32394b75b8771927fb3ee64e9c54de4e32aeb8fc7d763dba305771543e\"}, {\"path\": \"lib/emedop.f90\", \"sha256\": \"89c426e76c59858e4364fb1c7eafc05b25d1553aca8fb9d04194b22f1827eb8a\"}, {\"path\": \"lib/encode232.f90\", \"sha256\": \"118aaa5d2b33a184722cff129bb440f492f35490cea4c381bed7261f224f451c\"}, {\"path\": \"lib/encode4.f90\", \"sha256\": \"c64ef1f6a543153854847ccdeb0a65d405564306ad860e5a4587b16b737e4506\"}, {\"path\": \"lib/encode_128_90.f90\", \"sha256\": \"d8529ba54fabf0ca473774867f908d4445219afebf8cd09c8a9269410fb49512\"}, {\"path\": \"lib/encode_msk40.f90\", \"sha256\": \"80cec966d775b2bc2d23030513e731b1d1e53f8c3ca91ced1a76d692797121bb\"}, {\"path\": \"lib/encode_rs.c\", \"sha256\": \"edc93c435f047f991f98cf9aae4c761c7daf427d9e7b879c99ad3fd0eee504ce\"}, {\"path\": \"lib/entail.f90\", \"sha256\": \"463e7774c4d1630d9a18fabb249d0b061023d72997a4f437d377c09f65ff4e21\"}, {\"path\": \"lib/ephem.f90\", \"sha256\": \"11562ad978efd59990c823ecc47bf75c80e16df2d0669d2313006500fdd6e5d7\"}, {\"path\": \"lib/extract.f90\", \"sha256\": \"fc62fe28d7019192d5bbba8492a350a99e0b8a579ade5fdcbf423350753a13fa\"}, {\"path\": \"lib/extract4.f90\", \"sha256\": \"1e13406f98f04eed61972abaa4a9ee336112d1996e76813dce50f4df7562dd3b\"}, {\"path\": \"lib/extractmessage77.f90\", \"sha256\": \"ca5f8117d2d6db30f9f0f81cecfecfa0f189c8595a221eb4f15d346fc8616bb6\"}, {\"path\": \"lib/fano232.f90\", \"sha256\": \"23d0679dcf5964627bd9c99be4341db2277d5693a70de6cf1b86e333e46dd8bd\"}, {\"path\": \"lib/fast9.f90\", \"sha256\": \"5d1733b64771fe2f6e68706061d5fbd3a7bdc0cea1ad8ca07dd94fb4cc71eeea\"}, {\"path\": \"lib/fast_decode.f90\", \"sha256\": \"17baf6461f9d0337d06cbd96d4dd1816e09c12af473f6adf3335657d6737820b\"}, {\"path\": \"lib/fcal.f90\", \"sha256\": \"2987b932475a3b05e16ba68b6b1db36d22dd485ad81fb44a4090e747c2d53baa\"}, {\"path\": \"lib/fchisq.f90\", \"sha256\": \"55aadcd88a14181b0293247b046d8881b381aadfeb6cc04ce099ecf3d1bd3d06\"}, {\"path\": \"lib/fchisq0.f90\", \"sha256\": \"8a090c53e66bf4bbbb78261ab287d75994f591a315e66de9e716b7f53d03d008\"}, {\"path\": \"lib/fchisq65.f90\", \"sha256\": \"b64ec4d1cec4816f4ea3d898dc5303787b3a6dd1036d0cbc2427b27d8877f094\"}, {\"path\": \"lib/fer\", \"sha256\": \"0a56a68acf32a197070e8f31811b2c81721f6618ca29cca9e1bce370b8d0711d\"}, {\"path\": \"lib/fer65.f90\", \"sha256\": \"68005de196f8ef821350a32cc7a09c7ba367578f3d266f77380d0a374de19164\"}, {\"path\": \"lib/fersum.f90\", \"sha256\": \"2a9dc9ac0b71d0600ee700ea7b0eb63c6581a2ebbf1b642e59f8677afbbac85f\"}, {\"path\": \"lib/fftw3.f03\", \"sha256\": \"3678247ea2012139aeb6701802b0b90f312c75ad4fe72aa59a6dac23c1555d1c\"}, {\"path\": \"lib/fftw3.f90\", \"sha256\": \"6f5979b625d63abdd69f2feaa4bd5347d954c23a0eecba8e0afb779a55a112bd\"}, {\"path\": \"lib/fftw3mod.f90\", \"sha256\": \"f4ad391d1514413a05b64ab7a64614a256472ec2a2d9a72c751d79d285c390ff\"}, {\"path\": \"lib/fil3.f90\", \"sha256\": \"417ae9cf028b1922ce0ef529e50db9db1b568124f26aa609853602c85498e290\"}, {\"path\": \"lib/fil3c.f90\", \"sha256\": \"cd11495a2437637d0c9846fa287543c3a8266fe7d0193b0df455aebbce235fe0\"}, {\"path\": \"lib/fil4.f90\", \"sha256\": \"032e8a24ca70bac23c2512d3e59aeb4399890c5dd9c7694774d424f1f9bab016\"}, {\"path\": \"lib/fil61.f90\", \"sha256\": \"22f605196a43c4cb0f8e8dd597630f52c01cff50299c12bd99288cb309ee2bf8\"}, {\"path\": \"lib/fil6521.f90\", \"sha256\": \"030978d364683d6208def6946e6a2d9b363bcb0300b8a08fc229693965f6198c\"}, {\"path\": \"lib/filbig.f90\", \"sha256\": \"560053b50d238d34c7fa43e60a44f44ca68c07d7e37d0dea747220b7b0e0ae0c\"}, {\"path\": \"lib/fitcal.f90\", \"sha256\": \"5d7637b127276a0ba1ee2f8327627e0e19ea74f2613043b6aff73d88da48217e\"}, {\"path\": \"lib/fix_contest_msg.f90\", \"sha256\": \"c4a8525f5ff4a4c09f3b5512c6abf3d83bf3b48ee413b3a3f97f6f10e67cb793\"}, {\"path\": \"lib/fixwav.f90\", \"sha256\": \"0c84b867efdb03f6396ddd1de8aada8730a380f1fedb3ad5c6296ec978799f53\"}, {\"path\": \"lib/flat1.f90\", \"sha256\": \"acd96d79961387e658d870afd51dae51faae6e6e5a7ff409db45ddb32c3489ea\"}, {\"path\": \"lib/flat1a.f90\", \"sha256\": \"b4776cdfcb8e6848d5481d7c2c8f4cd83ad592c32cf2457a231a4a379969c5bb\"}, {\"path\": \"lib/flat1b.f90\", \"sha256\": \"1d611c4051d4f6bf27b72b4273d3de472ea92f5ef6d11bb5ab5492b3135fe6bc\"}, {\"path\": \"lib/flat2.f90\", \"sha256\": \"f348862ca54076b3f4142c12e857ec729623094d38c9486289bbcab0143a21fb\"}, {\"path\": \"lib/flat4.f90\", \"sha256\": \"f67f42c79d2f61fcb02b8e5e3d7522bcddfe32ee24da834c6405317c7a231703\"}, {\"path\": \"lib/flat65.f90\", \"sha256\": \"b015e1e58677bc1b728170b7ae2813cc24e0212e5ff6aeb659a606ed36362ecf\"}, {\"path\": \"lib/fmeasure.f90\", \"sha256\": \"d5b8dccd1df94ec248371b08f632c1338cfbb2e41e3bdef403ca4ae59ebf8ed8\"}, {\"path\": \"lib/fmtave.f90\", \"sha256\": \"5f2c92b08071363afba3000abdacaf4afeefbf27c48dd6da03eba5bf236a9b7d\"}, {\"path\": \"lib/fmtmsg.f90\", \"sha256\": \"599f97baf74e09dd16e54b2609d0e49e54288b6d0e77a26da39b58152f91fbf9\"}, {\"path\": \"lib/foldspec9f.f90\", \"sha256\": \"c5b848a180385f1927473993bf7594290c7c5bd6c21a4dfba3741864ae6fd495\"}, {\"path\": \"lib/four2a.f90\", \"sha256\": \"1014d8c10f0d9e6be06629ab2ce4fa058c862d06943e195922998f638364a4a7\"}, {\"path\": \"lib/fox_rx.f90\", \"sha256\": \"7f5114f979cd3545dd77f9c550194b186e1b26c50f6cb9e328a24a8a1e11b24d\"}, {\"path\": \"lib/fox_sim.f90\", \"sha256\": \"53ef189954cc99377821537cec5978f134a5a7181ec51ffb06a5c3503bd1c39e\"}, {\"path\": \"lib/fox_tx.f90\", \"sha256\": \"1e68af37450b83522006a419923b2e44df884f832566df79414dfe864497884b\"}, {\"path\": \"lib/fqso_first.f90\", \"sha256\": \"90cca7c243f2950c55a6738c30f73925023caee359716bc60900b20cef3ba745\"}, {\"path\": \"lib/freqcal.f90\", \"sha256\": \"458c2b116b9b8c68c43981ff613ec84dbe0ebe8733b6b7e80f201b3c43420835\"}, {\"path\": \"lib/fspread_lorentz.f90\", \"sha256\": \"0b17b2c88b394b584bdcb531b8b1098d9e351f6a3a8502abeb3343c363482171\"}, {\"path\": \"lib/fst280_decode.f90\", \"sha256\": \"787319678a98f06bccae7f116f4d9d96f44ebb6db70864f113dc5829d1249949\"}, {\"path\": \"lib/fst4/bpdecode240_101.f90\", \"sha256\": \"e7f4af37c776f1e4eba7e8ea172c2313fc445a85c67cfa2bef999f9cc37ed843\"}, {\"path\": \"lib/fst4/decode240_101.f90\", \"sha256\": \"23934e047adb910d25a85161a31534bd47ec5a273cac3b3c8243820045e2a30f\"}, {\"path\": \"lib/fst4/decode240_74.f90\", \"sha256\": \"560967c4eacb76eece99072a736c77a7ca664c8aaa06ffda511185676e1d3a8a\"}, {\"path\": \"lib/fst4/encode240_101.f90\", \"sha256\": \"d1cd517a48cf17dc4a7b4c578bf060742dc41054b0424a6f928a8b5732e24be2\"}, {\"path\": \"lib/fst4/encode240_74.f90\", \"sha256\": \"62f7b1917ea3dcd5647c035cad06dca5ce799f6f9378a8d37f8ada8a15292844\"}, {\"path\": \"lib/fst4/fastosd240_74.f90\", \"sha256\": \"400bfd1834f832c9dc2289fe3cbae019fe1ec257673beec3f575678b2e40ce50\"}, {\"path\": \"lib/fst4/fst4_baseline.f90\", \"sha256\": \"2389fc025e9fd141a76b7d5241c87d8321e46893afebaf461d713226a0bcf824\"}, {\"path\": \"lib/fst4/fst4_params.f90\", \"sha256\": \"f153dbd01220f7d5bf7667d4b374a11b370a9f4d7cff924550efae59759e6374\"}, {\"path\": \"lib/fst4/fst4sim.f90\", \"sha256\": \"7754298a788ea0f39219a702991e3c87a5f71a4ef39d5192b79418bcd3e488f4\"}, {\"path\": \"lib/fst4/gen_fst4wave.f90\", \"sha256\": \"5f969a927b88c89da01b36e5bff31fa2e5aa1afcbdb620aa838a91d90259176e\"}, {\"path\": \"lib/fst4/genfst4.f90\", \"sha256\": \"8b0e8e420aa9a8766409d3488d8dcbeb41313ef3efb3430b5ae1f8425d72c315\"}, {\"path\": \"lib/fst4/get_crc24.f90\", \"sha256\": \"1844c61043779f6a0cff03aecccec6da0aa1ca1f55d15b378a235b49f10971cd\"}, {\"path\": \"lib/fst4/get_fst4_bitmetrics.f90\", \"sha256\": \"760eb2234c6f9f0024f47b537535d96c8f3d1d32e87370480796ba3facdd6df5\"}, {\"path\": \"lib/fst4/get_fst4_bitmetrics2.f90\", \"sha256\": \"36257265298e46f3459ad4e9e1e139102e8ff61af5050e36e8a93c979ed261fa\"}, {\"path\": \"lib/fst4/ldpc_240_101_generator.f90\", \"sha256\": \"868ecefcb8eac9085c5b04fe66f925b6f0ab02e70bfe668b89a666ab55db92b4\"}, {\"path\": \"lib/fst4/ldpc_240_101_parity.f90\", \"sha256\": \"c31c18bbf9778fe2166bdf6754ee1ef8ca5f911b5477a2dff74c51800d773190\"}, {\"path\": \"lib/fst4/ldpc_240_74_generator.f90\", \"sha256\": \"cd3fcedb3541e1055dfa194c3d03028972a26d633efddcd53a23d33210ddc5b9\"}, {\"path\": \"lib/fst4/ldpc_240_74_parity.f90\", \"sha256\": \"50b7828fe259f6ec1c3e128bb01a9100126970120903803ba35000d70bf84b17\"}, {\"path\": \"lib/fst4/ldpcsim240_101.f90\", \"sha256\": \"ca32ea949aefbf552c3411cda039d5a60fdc012fa155ff894daf785e5fcc8f92\"}, {\"path\": \"lib/fst4/ldpcsim240_74.f90\", \"sha256\": \"1620e8f7c9c210e3177e71233142e9d4d350bd70a954a28e3dabd863a034cf57\"}, {\"path\": \"lib/fst4/lorentzian_fading.f90\", \"sha256\": \"be784abc65c62e817a4d000ad34c1dd97d1cf1b4d313c55120cab4dfc49fa869\"}, {\"path\": \"lib/fst4/osd240_101.f90\", \"sha256\": \"1567b7e1f9972e27865553f073141bbd863554713f258328d0f2748528dcee8d\"}, {\"path\": \"lib/fst4/osd240_74.f90\", \"sha256\": \"5cf61d2450ba75992803f322622b9f14a27c64ee5f86da5540d19cd29e96230b\"}, {\"path\": \"lib/fst4_decode.f90\", \"sha256\": \"cd98efd3abcd635c663280c7c957425fde0c4573db40d97ef808678b1174b9c1\"}, {\"path\": \"lib/ft2/cdatetime.f90\", \"sha256\": \"f2bc3941f9261d346d689a741fd6143330bfa6b36c319d804c0e8c09d98d537b\"}, {\"path\": \"lib/ft2/ft2.f90\", \"sha256\": \"58f055cc70d6f5e04905fc1c6c21fa577b25fef8f7834a0a1783600443f2456e\"}, {\"path\": \"lib/ft2/ft2.ini\", \"sha256\": \"4eab57e080b4ac4afbe6c652ce41e098f926c7d4a0c0a6367c92885e346815fb\"}, {\"path\": \"lib/ft2/ft2_decode.f90\", \"sha256\": \"d23ec18f1e5534a39bb402207b6142f0eaf65ab097853e151388b1a090153dca\"}, {\"path\": \"lib/ft2/ft2_gfsk_iwave.f90\", \"sha256\": \"38895aefc44aff2d3ed2940ca0874ab8086280e8fd52959e582a81e44f58491b\"}, {\"path\": \"lib/ft2/ft2_iwave.f90\", \"sha256\": \"8e136a839aa8020c57fcba21cbea79af474ad38d79bb6f83acf5ba2792e59c2f\"}, {\"path\": \"lib/ft2/ft2_params.f90\", \"sha256\": \"7f05ed0a1efc62bea45cc74f9f72d0adcbe40f982c5232981bd27c88c89fe5a8\"}, {\"path\": \"lib/ft2/ft2audio.c\", \"sha256\": \"e912fb2c7d7302910ad9ce1d2c04304ee87d3992157511338fbb5a34f8d59028\"}, {\"path\": \"lib/ft2/g4.cmd\", \"sha256\": \"2c87c05dd438780c98ff7f84e6e84ada4881a3d667edd7fa13a950520e09c91e\"}, {\"path\": \"lib/ft2/gcom1.f90\", \"sha256\": \"911fa05e3e41e220898a66ed6d353219a21820dc793b3fe81d6fe29ab4bb9d6b\"}, {\"path\": \"lib/ft2/genft2.f90\", \"sha256\": \"8113b47b99374f25d9a8aad471b289c564ddf1793837bef53f5383890a6973b3\"}, {\"path\": \"lib/ft2/getcandidates2a.f90\", \"sha256\": \"ed93b2e2667cfed8ba01b3b144a0028c24b85a083b1bd4b1c6306962f2b28aff\"}, {\"path\": \"lib/ft2/gfsk_pulse.f90\", \"sha256\": \"2f17dc3eaa2a9a93e53df79459404abf6ddddf5e0ae2c47167540aeda5c9940f\"}, {\"path\": \"lib/ft2/libportaudio.a\", \"sha256\": \"28e050a91ecbd074e0057ae162f40c06989fcd594c841ebae7c839f1c914ce01\"}, {\"path\": \"lib/ft2/libwsjt_cxx.a\", \"sha256\": \"af83c106917f024f6bd3a310772f6c91c04b05adf8e2d9d76839e686614eae83\"}, {\"path\": \"lib/ft2/libwsjt_fort.a\", \"sha256\": \"7f2a871c03fabc9432da53aebd0481e1b66936f924107d4cc98d96f4f382a071\"}, {\"path\": \"lib/ft2/portaudio.h\", \"sha256\": \"f0c8f2146d13c92752c607d20cf1e308f6bc095f617840d0b1309ae33ecb2764\"}, {\"path\": \"lib/ft2/ptt.c\", \"sha256\": \"d04f2949539fbc15e7f7e47395ca570769939e777472214153cd7007dc937e9f\"}, {\"path\": \"lib/ft2/ptt_unix.c\", \"sha256\": \"9a43af6f5036e71e7781eade1a63bdefa142c89aad192b86db309574ffcf8d53\"}, {\"path\": \"lib/ft4/clockit.f90\", \"sha256\": \"b04de008e4e141866e7fa141aba903e0159f61cb038998810fb6b5e71e9bbb52\"}, {\"path\": \"lib/ft4/ft4_baseline.f90\", \"sha256\": \"f0759a7e19c8f6f7a2be673c24b287038f4ead642cb974c5bc9ea3f9e38681c8\"}, {\"path\": \"lib/ft4/ft4_downsample.f90\", \"sha256\": \"e12dd4a4b9e9f90ef0d0f532a45cf0dfb99fe2bc5144a5f76efa6058c6d0d011\"}, {\"path\": \"lib/ft4/ft4_params.f90\", \"sha256\": \"783751437ffc72540302f38e1f080df23505cfc2c4125fe4588a1a866cc19345\"}, {\"path\": \"lib/ft4/ft4_testmsg.f90\", \"sha256\": \"8d4e1144a3fa2a792ab6d59af2ddddd31f4c49b82ee8b3b21abcc0bf2095cfdc\"}, {\"path\": \"lib/ft4/ft4code.f90\", \"sha256\": \"527608554e8fd3c58c61b5f03b4025fff4db3f38952ec2ddfbda6899f4c4cd19\"}, {\"path\": \"lib/ft4/ft4sim.f90\", \"sha256\": \"dfca44c09984636d9487d483e7c58f32c3425de452b231726bc5874a70a9a49a\"}, {\"path\": \"lib/ft4/ft4sim_mult.f90\", \"sha256\": \"2cad049c68fe630865fd496205f58ef145ec6df58444bda423816b71802c4143\"}, {\"path\": \"lib/ft4/gen_ft4wave.f90\", \"sha256\": \"887a0db8546ec27c8481ee30cb8098245c0635df0f50187b212a6c0ff96471f3\"}, {\"path\": \"lib/ft4/genft4.f90\", \"sha256\": \"8cde7ea98191a81439da34c9cf722baec28b4c7e432f3ad8dd9f352034fabb74\"}, {\"path\": \"lib/ft4/get_ft4_bitmetrics.f90\", \"sha256\": \"37ecfe843d5eaf57c7ba03db71157b4a514f24a781cdaceb597b1cf240ec4f99\"}, {\"path\": \"lib/ft4/getcandidates4.f90\", \"sha256\": \"6c48cd699c68f3838c94fac4bd65495cc0172b86c5021c3b66c477f9c0612e09\"}, {\"path\": \"lib/ft4/messages.txt\", \"sha256\": \"2444d707b302173a76b3737a589c5e20399ee6155f5a3d483530cab06dbbb293\"}, {\"path\": \"lib/ft4/subtractft4.f90\", \"sha256\": \"9724a56ee73ebc88b46a037fdcb2156c2e79177f6c25d524e40b20ef7ed9f959\"}, {\"path\": \"lib/ft4/sync4d.f90\", \"sha256\": \"bf5a6113af9d0943660ba103fee8411b8311d871539caa54874c50fe45426812\"}, {\"path\": \"lib/ft4_decode.f90\", \"sha256\": \"a6e9e722f86dd715f48f3bab386b84de522119c5b34d841932eafd07317d50e5\"}, {\"path\": \"lib/ft8/DXpedQuickStart.txt\", \"sha256\": \"d3d381633fdc5ad7b7bd884082f8e457ed2d575613a70381c80d97ca1428f655\"}, {\"path\": \"lib/ft8/baseline.f90\", \"sha256\": \"53be9e1d4328b7de350ddbd960e5dd0ede01079ec5c173fa6d46fdd311728689\"}, {\"path\": \"lib/ft8/bpdecode174_91.f90\", \"sha256\": \"fe6dc02e36d0e1e15df8aacb117c170d1da5d505b76add50439fa0d714ae943b\"}, {\"path\": \"lib/ft8/chkcrc13a.f90\", \"sha256\": \"60a9b7ee0c9cf5b7459b210f8004a8a481d0d5075af38fd566fd4c3666e934de\"}, {\"path\": \"lib/ft8/chkcrc14a.f90\", \"sha256\": \"f913624b12075f3055461a6ed155ed385abf567b55193c7347ad6db96c27a1de\"}, {\"path\": \"lib/ft8/chkdec.f90\", \"sha256\": \"48a8a0e0af95b1b7825284924518f2bfab11a4818c7265303e58757fed48e393\"}, {\"path\": \"lib/ft8/compress.f90\", \"sha256\": \"d8365deb4400337253344ecdd0abff5770906673042f04cea41623381b279f55\"}, {\"path\": \"lib/ft8/decode174_91.f90\", \"sha256\": \"05821c64e20200691908504a27392dfcc1070bd163af17f82143793b3fb912db\"}, {\"path\": \"lib/ft8/encode174.f90\", \"sha256\": \"c9bbeddc86f68cc9b828dd0ff79afbbc3e7dd71dc48b5122551f1ff0931b2fb9\"}, {\"path\": \"lib/ft8/encode174_91.f90\", \"sha256\": \"01093195c276c154c5cd8a4006fc342f99d6eff557c6024750101d411bc0a824\"}, {\"path\": \"lib/ft8/encode174_91_nocrc.f90\", \"sha256\": \"c348428f8ddd7f73c57b1bffec229247c327758c0d7500ff8c27c99a5bb8eb49\"}, {\"path\": \"lib/ft8/filt8.f90\", \"sha256\": \"e65c8450551d71934499ec9e80533d6f750d804c0a14504163c3e3937d226a4a\"}, {\"path\": \"lib/ft8/foxfilt.f90\", \"sha256\": \"4af74f080caeb49a6129986d2a1fbf493c36932291c7ce1c3a6f45384097c3ca\"}, {\"path\": \"lib/ft8/foxgen.f90\", \"sha256\": \"fc7cda3108ba7d3ba2e99c2a8f41c1754cb3c5b825824ead8c26b33881e269d1\"}, {\"path\": \"lib/ft8/foxgen_wrap.f90\", \"sha256\": \"6221915061e0cc85b2b3f99c3902c0d55b546e3306db4e62224ee03a9eff4f4a\"}, {\"path\": \"lib/ft8/ft8_a7.f90\", \"sha256\": \"e4d3a58c80b035166b930249fd3faf084cb2edaf2a026ea6f72e40ce915ddd9a\"}, {\"path\": \"lib/ft8/ft8_downsample.f90\", \"sha256\": \"163e7bb50d8130031d5b424154c9669894b1df073830ff17d862e1603c49ac73\"}, {\"path\": \"lib/ft8/ft8_params.f90\", \"sha256\": \"9579eb3bf6b844d3225238341ff6a30c803f39a331771c50b15575491b14f67b\"}, {\"path\": \"lib/ft8/ft8_testmsg.f90\", \"sha256\": \"3eb8072d0cab37ed2a0179e09d448528669df6520435175b3ee0f0a30fa43e65\"}, {\"path\": \"lib/ft8/ft8apset.f90\", \"sha256\": \"48ed3dd807c679d2c060050b06dd9f2b3d875675cc209f3fb18947d1778f6d80\"}, {\"path\": \"lib/ft8/ft8b.f90\", \"sha256\": \"cf336d20fd30a2ccab108de1b9a39484010edc9377c9657d7d16def2a5dc559c\"}, {\"path\": \"lib/ft8/ft8c.f90\", \"sha256\": \"cbccc3b02b7e0ad30fc377462bbc184d23bc4d35a873266247680c7d6f462d63\"}, {\"path\": \"lib/ft8/ft8code.f90\", \"sha256\": \"9da97b72491e2857a711c6a821c64558e6b67d6ccb87ed09c015bce5b28bb567\"}, {\"path\": \"lib/ft8/ft8d.f90\", \"sha256\": \"c0faa1e1f6535f5487a608e15eba966f3d216a2426c81a357a73488871a6390e\"}, {\"path\": \"lib/ft8/ft8q3.f90\", \"sha256\": \"ad198979d24f20f4cc87e905017c54e9de6d5f96996a9883a0c7ba45a82724b5\"}, {\"path\": \"lib/ft8/ft8sim.f90\", \"sha256\": \"790a207b6ddd9c731015263c784d2c4d2ea511a69884eb132697d215837abb77\"}, {\"path\": \"lib/ft8/gen_ft8wave.f90\", \"sha256\": \"cab4695cda39e6f7d87e80c8c8046f1ddd2fb323f797e08131d1e3575ab703cd\"}, {\"path\": \"lib/ft8/genft8.f90\", \"sha256\": \"3870f2524b0bde45d274c45ce931e1018f22321cbaafc4d78d6c1cfd37658f6d\"}, {\"path\": \"lib/ft8/genft8refsig.f90\", \"sha256\": \"57452ea28dd1ddf057db77377006254adb290917eaeef99cd57f1867667d791e\"}, {\"path\": \"lib/ft8/get_crc14.f90\", \"sha256\": \"e8230ba80eb0a4171d03b062639ef9a5207f53a811fd71b915c0d48172166c86\"}, {\"path\": \"lib/ft8/get_spectrum_baseline.f90\", \"sha256\": \"71af4ec5c6dd8ff59a0c1ad728754c5b973ce0a6757395cbe670e007a2d37e66\"}, {\"path\": \"lib/ft8/h1.f90\", \"sha256\": \"8881f68b722693c6f17282adeb2f3c45d89f9fb67248e2893ed46d9aa13e7824\"}, {\"path\": \"lib/ft8/ldpc_174_87_params.f90\", \"sha256\": \"98f802adb997b856801366c12567d9af0c089fdc96b1523e012508adb05f8650\"}, {\"path\": \"lib/ft8/ldpc_174_91_c_colorder.f90\", \"sha256\": \"4a1710c865be4d743bfb996ebb8f94bb837196ac7e0cf03305283c0661072227\"}, {\"path\": \"lib/ft8/ldpc_174_91_c_generator.f90\", \"sha256\": \"b061e4428fd89c9d2df3ea7026f03430141c6df36baaf341dc7b84b9f5573bfd\"}, {\"path\": \"lib/ft8/ldpc_174_91_c_parity.f90\", \"sha256\": \"5bf5e359b037d97d508dc1abcdc1d917a50a5d26a917f4a488b99213fc5eb834\"}, {\"path\": \"lib/ft8/ldpcsim174_91.f90\", \"sha256\": \"e6b6482174ef2f39d15ae4a9650f44f7a13801c4bf4557a98c2cc061f405ff27\"}, {\"path\": \"lib/ft8/osd174_91.f90\", \"sha256\": \"3bc4270d864aa9ae6977fc95d66a093dbe7dd1ecbb208a11619a59762eb6fb5b\"}, {\"path\": \"lib/ft8/subtractft8.f90\", \"sha256\": \"a15029bfb935691a1d2ed00430f1369a291260098e66fd313d6552d2ef4b3cae\"}, {\"path\": \"lib/ft8/sync8.f90\", \"sha256\": \"d976f949e7e48cee288c2a0d4344b8e933c378d371efe067e3cd74b2eb4942b0\"}, {\"path\": \"lib/ft8/sync8d.f90\", \"sha256\": \"9edb541b2d5d5f0b8388a4791bd0ecbdbe35b25f01605e8a157e6def986bc25b\"}, {\"path\": \"lib/ft8/test_ft8q3.f90\", \"sha256\": \"86c9cf24ff9c7c18f10ae0f5ab05079029fb74c2908d80e2acdf634603d98777\"}, {\"path\": \"lib/ft8/twkfreq1.f90\", \"sha256\": \"e419f6f2f96b74f8c31c6a3d107ecf9af6baa5c1693d285416617ed51e4c83c8\"}, {\"path\": \"lib/ft8/watterson.f90\", \"sha256\": \"7822b21ad22e4f91289e46a420ca33a2401b03c7b57a9e327ebaf880d87a0480\"}, {\"path\": \"lib/ft8_decode.f90\", \"sha256\": \"529e23906d35806143ce2e932b81d82c683190e851ce398478b16131714c6e7f\"}, {\"path\": \"lib/ftrsd/Makefile\", \"sha256\": \"7ce55a8e147ad68a5eb757db81bebefb3d1351eb84ee00e4838545b968a76215\"}, {\"path\": \"lib/ftrsd/Makefile.sfrsd\", \"sha256\": \"a5ba509c1f7a7363c404aaddacd02f4d9ce341d69bdbe98d2dcf8255bde2facb\"}, {\"path\": \"lib/ftrsd/Makefile.sfrsd3\", \"sha256\": \"f020b1d96b235c57257fe4312045142792b30452ce0db6ae0c78584973e98725\"}, {\"path\": \"lib/ftrsd/decode_rs.c\", \"sha256\": \"3bda365b9ad91ebf9928a21cdf5f3d4b9459701cf43b07e7dbb014d3092aa2cc\"}, {\"path\": \"lib/ftrsd/encode_rs.c\", \"sha256\": \"edc93c435f047f991f98cf9aae4c761c7daf427d9e7b879c99ad3fd0eee504ce\"}, {\"path\": \"lib/ftrsd/extract2.f90\", \"sha256\": \"b26deb8f6675dbfa03f91a88060c21bfb006194073f7c1c689211fd6b5ed0e20\"}, {\"path\": \"lib/ftrsd/ftrsd2.c\", \"sha256\": \"d3f7f46c498c119dbb2a2bbc4fcbbffe6e5f1f7f4750eabacc057c4cf7a3d793\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/JT65B_EME.png\", \"sha256\": \"7710a4de3efc374345b4d2a24da05f4c8baab866126c86f18a775aea1f1b83d1\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/Makefile\", \"sha256\": \"64aec2525adf2f63bf50dea9df5218bc4e60e13f2e5a0724015e732e2de7cd6d\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/binomial.c\", \"sha256\": \"4e052563bafdf7d8b2e0f4ddda39823470abb9f2ef54b5e8d17e265a82115596\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/binomial_subs.c\", \"sha256\": \"f59fa52b41309ef8d1587e773475f33f24c2f5835d13e8885612018f61b1d55c\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bmdata-rf.dat\", \"sha256\": \"8e8ea39fe6d3ea54458c347fce1098bcd7e875d4f1bb86c14010d248529c0396\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bmdata.dat\", \"sha256\": \"79c34c751552f8daffe6cd3de6041217be42d9e8e955e8eb3b4590dce2133d7a\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bmtheory25.dat\", \"sha256\": \"c37482650ecb9f95586981d95d82add6b3559f706bc3ef5bd61e452efc28e802\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bmtheory40.dat\", \"sha256\": \"94f7c28b559a33918ce715e1812fad97c968beb94f43e4658e9f8cb563eb0593\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bmtheory43.dat\", \"sha256\": \"bb0038f79b79332c448330ca77b097ff33c33c80f44c9f0d29fad590654cee4f\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bodide.f90\", \"sha256\": \"e20c543cba81a4ddf94bd730f61c55bc1fa066c742c6a29e910e2d70eeb14ef2\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/bodide.lab\", \"sha256\": \"a53ec4f4127449f87abdaff4b1170ecdea13d3932a679855ec050fd7278f3f1f\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_bodide.gnuplot\", \"sha256\": \"44e5612ec626c51295cded1c2252e0164776041f678a6d4673d57e28c7176996\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_ntrials_vs_nhard.gnuplot\", \"sha256\": \"7f0f24d45dfebf83181dc214f49f53cbde854a7127a92263f9e0b4529cf1fc0e\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_psuccess.gnuplot\", \"sha256\": \"692a4b8e6e27297a37cad375c96494da0c97c90253c767f3a432637eb42d87c0\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_psuccess.pdf\", \"sha256\": \"23213a4ba37202f2621614e508f2f55f6e1587805aa62f920f4d5d1379184f20\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_subtracted.tiff\", \"sha256\": \"301e922e7ac7528aabb9cb7435b11d0b67f285a693278ea59d28800c1d719a9e\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_waterfall.png\", \"sha256\": \"c8c935712db8ed86433a13f10efcea46dc30f65ca6be713813b6598071ae6e18\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_waterfall.tiff\", \"sha256\": \"dd11e17af4481bfadbca850b4b5a792fa68f41f20232e8dbe5403117c0ddf53f\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_wer.gnuplot\", \"sha256\": \"491a3ca76577808142a4a0a852a6000a9f116184d6145aadaf60308eaa0f2aa0\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_wer.pdf\", \"sha256\": \"e57f463f9b86326681cb341256780e2e1b104da3bfaebfda22ec332ec99390c1\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_wer2.gnuplot\", \"sha256\": \"2d53743ec24cc7345548d1f31c56e937b29f5e14164adc5a98bffa1b55c460e9\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/fig_wer3.gnuplot\", \"sha256\": \"7af9b0c0afe6e27d4ece7eb32fa9e4d422c1d1de51269821e98c0d37549320a0\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftdata-10.dat\", \"sha256\": \"fdd66aa4093de0f8b8e6240e9c7cf87b85a1b814e0f7e76f430381139a1caf4f\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftdata-100.dat\", \"sha256\": \"c0b2d9024c198580b8c28dcbf1b565311919e1762c457236856461808c9ea4b7\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftdata-1000.dat\", \"sha256\": \"34ae896931ea2f61426bb39f151f5680cc43ef9c595aa5c2289dd514dbf84ebf\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftdata-10000.dat\", \"sha256\": \"e1ead9f6f3d0d783c3d277dd857741ebaa99942bc878f09a8e8de0e0f259af65\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftdata-100000.dat\", \"sha256\": \"2ec197faf134bf131a800132f582312512ac8448b348aa450098b4a034ca94cd\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/ftrsd.lyx\", \"sha256\": \"496b9e1afe01333685ede225adbc4c917c0c0b5f923538fe18a8cbeb93b12c6c\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/kvasd-12.dat\", \"sha256\": \"bfd9152a60390e7c7dce3801220f3505f309eb462d50a99f9a69fa34af63d5ba\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/kvasd-15.dat\", \"sha256\": \"629ef65b9113cb524cfcfde19814bc4835cc2d53dcf8fd91e4f0fe9379f99182\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/kvasd-8.dat\", \"sha256\": \"103e37d652566f2c4cde4cf5df4c1f9a9b1413fe102d2652cb5670a2a4d6df89\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/mfsk.f90\", \"sha256\": \"25ea594e57334e84cce38735373c24bba7f4a7723b29606e988b8331acecb36a\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/prob.f90\", \"sha256\": \"bf55abe68336393b226e12823b79ad0e7e9b916cf3f1af1c58fbfc6b951fcf5c\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/psuccess.lab\", \"sha256\": \"256189b2e024b37fcfa5c97d8fd9a16a91fc61c90b39e07e7e822b23cfe133c6\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/stats-100000-24db-3.dat\", \"sha256\": \"01c92c9cfd51eef5ddcb4574e94effdb04698a5d978693b57b547c500cb3a887\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/stats_0.0\", \"sha256\": \"4c4f0c04f30ac9bc04bfa6cb89e6ef4a1559e3c4092b21449c662169efc8726b\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/stats_0.2\", \"sha256\": \"854d10b5168af606276444823b588d8602af870ee9b4c0622422601ceca25197\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/stats_1.0\", \"sha256\": \"9d8b58a5968fb1a64a444f3b9d16d2e40c843f9aac3c744082f6e1661c92d8d4\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/wer.lab\", \"sha256\": \"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\"}, {\"path\": \"lib/ftrsd/ftrsd_paper/wer2.lab\", \"sha256\": \"f235ca22bf34c0fb82008fdc9ec3e19c60b8bd75ed38a7b10c55bbd9785bc1d3\"}, {\"path\": \"lib/ftrsd/ftrsdap.c\", \"sha256\": \"0043c3f30fd2b2ae6bcfbb74844892ca07dcddf6de68f317ee0982f82c24bc79\"}, {\"path\": \"lib/ftrsd/init_rs.c\", \"sha256\": \"cf9746721096bfa10d72c16a79e437375b5939e4f5c22194024505e5d0358b06\"}, {\"path\": \"lib/ftrsd/int.h\", \"sha256\": \"f558d05de20dd802b5045fa50af92c7746c382f416f866642c5eb901c25d0579\"}, {\"path\": \"lib/ftrsd/rs2.h\", \"sha256\": \"120f62a91265a5a8b66eb97d0f2b33ad55f571a9e275c4c7d664881b7e9bb24c\"}, {\"path\": \"lib/ftrsd/rsdtest.f90\", \"sha256\": \"fcd2476a881db97349203d5e411b6eb0cdc02311fe6a0f468ffa12f2e815dc6c\"}, {\"path\": \"lib/ftrsd/sfrsd.c\", \"sha256\": \"490216fa6d240e91481a880cdb13d9827ee3928a6922bc3b951fe0dbb3267b6c\"}, {\"path\": \"lib/ftrsd/sfrsd2.h\", \"sha256\": \"8430132cba773d3a66a69835c7f67ccfa0786c4dc756a45ec1ec5808948788ff\"}, {\"path\": \"lib/ftrsd/sfrsd3.c\", \"sha256\": \"ccd7fc232fb48dc103f3f5b48d5137137be046fc093ce8c205b47b5c8e4da2b1\"}, {\"path\": \"lib/g1\", \"sha256\": \"8e2523800189ac00d4841ffb936d46827d0b1c98bfdfe238ba9b3330b68c923b\"}, {\"path\": \"lib/g1.bat\", \"sha256\": \"9c869e6222b72f221e577df8df4a22d3d52edb381443085fe48d9400620fe08d\"}, {\"path\": \"lib/g2.bat\", \"sha256\": \"2bfe589275d5529a2a4dfc0e2fcc18372c1bb0d5e221d84e0168e7107f90a7dd\"}, {\"path\": \"lib/g3.bat\", \"sha256\": \"9dc9ef84532a823b0d65711f73ec235634b76ceb491fed0925dd80dce3c49d5c\"}, {\"path\": \"lib/g4.bat\", \"sha256\": \"8bd28683015e455c9be63f5c7fc2fee431b5c0ecf5a66b8b74e5f60b53dbc087\"}, {\"path\": \"lib/gen4.f90\", \"sha256\": \"a89afa17c9ce92d1c2ba925c7311a90bc84cd917443275147f1cb1c7baaadaff\"}, {\"path\": \"lib/gen65.f90\", \"sha256\": \"4581f7ccae660e573eb1aea496473d00036ff2d9ea0f53b8905f61b8cbd6f242\"}, {\"path\": \"lib/gen9.f90\", \"sha256\": \"e9030d949f5826f83eda8ba47d0082f78d98dde3ca24344505f8278a13ac89ff\"}, {\"path\": \"lib/genmet.f90\", \"sha256\": \"60c90e3a3a95f4d5873fa30c14190752f23761cee007938bdf467fffb9c57f90\"}, {\"path\": \"lib/genmsk40.f90\", \"sha256\": \"873e1f0f3af7ed0506c055f8f5467281416197802db024e279fd6297d9d20806\"}, {\"path\": \"lib/genmsk_128_90.f90\", \"sha256\": \"8bddc9742a06212af3b0e344b68a4f8189fd8cbf4f3903ea99f00be9ad051b6f\"}, {\"path\": \"lib/genqra64.f90\", \"sha256\": \"fd840cfc82827c36f2e64a25a1fc7d4f028e4173539f0748d160fa5b8b6fd7bd\"}, {\"path\": \"lib/genwave.f90\", \"sha256\": \"eb1e5721fde4bf26959dcb1a3d955cc0cea30e64d2defba0c35990530b6362d5\"}, {\"path\": \"lib/genwspr.f90\", \"sha256\": \"d170671f1eb99e5525cc377d89dd13fc2ee138e566f2b4f79f6ef4f7d6dccad7\"}, {\"path\": \"lib/geodist.f90\", \"sha256\": \"268b374f4557d21418d6164c30176f2e46c97115eace59cd003a2427bf7bfbed\"}, {\"path\": \"lib/get_q3list.f90\", \"sha256\": \"11346e4568b4f092318bd81e8fa144eb6cbb83836dc80a5bc41ccfffd9db42ae\"}, {\"path\": \"lib/getlags.f90\", \"sha256\": \"8716d713b31d9f2e572df9562e51f8baaaa5c9f521219b9ff3aa03efe758250c\"}, {\"path\": \"lib/getmet4.f90\", \"sha256\": \"388adb4cab9d10c14d7b20ea4583cdee16a2ac3b51d4912dc492a1a17e4b9c7a\"}, {\"path\": \"lib/go_chkfft.cmd\", \"sha256\": \"0a0f29b7f7998373bd56d3afe9985d3ccb7a4526c52ff9392efe313132c0a99e\"}, {\"path\": \"lib/golay24_table.c\", \"sha256\": \"4cca3f55c975cb7a1845b3a72b3d63416255d84cd12eea5f81bb4356594c6428\"}, {\"path\": \"lib/gran.c\", \"sha256\": \"760767656a8594399c6d40c73f2c495a62820f531671c976089776e17054c341\"}, {\"path\": \"lib/graycode.f90\", \"sha256\": \"f1708bdf3d82e5fac6f387e73959ed14d41b7e030e9c3180fbcd331dbc1a81dd\"}, {\"path\": \"lib/graycode65.f90\", \"sha256\": \"5bac6c23c7799cd208b04d63afe8827cf1125857074ba57472cabf16f81b67f9\"}, {\"path\": \"lib/grayline.f90\", \"sha256\": \"81a2b2b063151fd9e9dbe9d7cd436eafa4a202ec5bc3a6d8ba473bc4d1b5b30e\"}, {\"path\": \"lib/grid2deg.f90\", \"sha256\": \"59c2c0a210be924b84f6d0578ba42b3dfaf393694d199fc643f5aab4337d1ee7\"}, {\"path\": \"lib/hash.f90\", \"sha256\": \"26aabee51c837bcda7570b069201dd45ba1bb9b4024e9d3dc182c20d8fef06a7\"}, {\"path\": \"lib/hashing.f90\", \"sha256\": \"6b2c3b25035b85164bbccf0637c1f2dba7187214be2b0e5b718d60201fadd7a2\"}, {\"path\": \"lib/hint65.f90\", \"sha256\": \"7f0d947245d7eb38b86c7b2218097663e1840ea6a8e0aa6ee520240f2717d520\"}, {\"path\": \"lib/hspec.f90\", \"sha256\": \"1ed81d2cfaee262bd526a2811adfa41f9adf94e7f932d6b60fe8e03a401644bf\"}, {\"path\": \"lib/igray.c\", \"sha256\": \"caaf7a2bee3e42877b9c5b12fd30b3bcb10bd73ff4a6305e2e06eddd1b132da1\"}, {\"path\": \"lib/image.f90\", \"sha256\": \"321a782377ff022df4040c6ec0649d15daa24056dfe3886cf021491b2b9ada0e\"}, {\"path\": \"lib/indexx.f90\", \"sha256\": \"83d59a898af1be01f5915e7c40889b7d87270155c12bb1fe0e772879da338875\"}, {\"path\": \"lib/init_random_seed.c\", \"sha256\": \"de0bc72ec6343c2940a6b1e2ac85a69669024f087196881f4724d1339bb50e95\"}, {\"path\": \"lib/init_random_seed.f90\", \"sha256\": \"8b417f663b0c7fb503c1a7da39f58d8c2eae075520a93a704c27608cae6f3360\"}, {\"path\": \"lib/init_random_seed.h\", \"sha256\": \"98cee57a3dfc83a4d21f00f7e035efc928d801e5f776cdcf576fd1f18e3b8b7d\"}, {\"path\": \"lib/init_rs.c\", \"sha256\": \"a10d3482732653257c5c6acdf7f4fe9dcf581629e654d0b4357e9995edb75628\"}, {\"path\": \"lib/int.h\", \"sha256\": \"90c6a63f1588133b189fb15d250f289290a44ea0b0b8f620f89c18a275858573\"}, {\"path\": \"lib/inter_wspr.f90\", \"sha256\": \"1889d5fe4e61e5e3a80ecf773d013827071c620dbfa2a3ea73eaf806fd69f719\"}, {\"path\": \"lib/interleave4.f90\", \"sha256\": \"346e637b86c6c20182961334cb9a44768997615ce81901ef84952f01dc4f80e8\"}, {\"path\": \"lib/interleave63.f90\", \"sha256\": \"1a78cdaee8cab9703403faf2070095ecf21d88ff10c66c634a51f549feec7a29\"}, {\"path\": \"lib/interleave8.f90\", \"sha256\": \"701a379c293be84be31e33d52cdb3e023daaf63e4597fedcd9c141d66d33e587\"}, {\"path\": \"lib/interleave9.f90\", \"sha256\": \"5dd0b97465bdfaf67590810320de1c3447f89266a35531a0d2a757c25c759f30\"}, {\"path\": \"lib/iso_c_utilities.f90\", \"sha256\": \"674d54d685a009d4f5e4b28b89d702a5fd2c34e20965b0c059e58d22388d0e87\"}, {\"path\": \"lib/jplsubs.f\", \"sha256\": \"fb9314dd80a613119ec951095e6afb84c6ae0e2be596fbaa44b7dbad0ce1fa37\"}, {\"path\": \"lib/jt4.f90\", \"sha256\": \"22334c54c6131c68ff5b8ef38076eecddb3da38549f44a9766578b551b82d154\"}, {\"path\": \"lib/jt49sim.f90\", \"sha256\": \"91ee0667cc805ad5274f712698047ae23c5fa01cec2c1da9b119b341fc04e22c\"}, {\"path\": \"lib/jt4_decode.f90\", \"sha256\": \"6d9dbd240f612bce7571001974c1283452095a927353d45498715e5435f5e029\"}, {\"path\": \"lib/jt4a.f90\", \"sha256\": \"a3b62bab25b107150560509cc66781aba08a67e1af3044dd7154f692fb44823c\"}, {\"path\": \"lib/jt4code.f90\", \"sha256\": \"695ad9de9b84bdebbc9a051ca2790cf92376ada17fcea9a0e15811e8a3872a48\"}, {\"path\": \"lib/jt4sim.f90\", \"sha256\": \"3563afc1084ab8dbe9a403c43ebf497047e099ebda60c28df45fe98f84d3ea51\"}, {\"path\": \"lib/jt65.f90\", \"sha256\": \"82e561b8d16d1c46cbc9ace43af128ae0edab644de5f0e31b767bdda7d20bfc4\"}, {\"path\": \"lib/jt65_decode.f90\", \"sha256\": \"579ac1be911be257512cb1b9899d16351b7cb27329e95c0b05004079910eb095\"}, {\"path\": \"lib/jt65_mod.f90\", \"sha256\": \"f2d6ab93eea6670c8412a8652037e56076d6928cd8a717e9ebc6732e4e2b707b\"}, {\"path\": \"lib/jt65_test.f90\", \"sha256\": \"0bb9d9622bd4b829a3f14b6e1784d9a96db0060f83166a6dbd71a9199b23a5c4\"}, {\"path\": \"lib/jt65code.f90\", \"sha256\": \"8fad77d1497d855b8bec22262a8a5fc0f793146f1419cf2c764121e0603ceaaf\"}, {\"path\": \"lib/jt65sim.f90\", \"sha256\": \"4b27685ef04df3a3acd5c1578df01aee38f09f3f0c3bdb87da044fd1db893112\"}, {\"path\": \"lib/jt9.f90\", \"sha256\": \"28b70eafa96b4abbfab63942957d52b266fc0f72d32f0a50e9c0ffabf208ebfe\"}, {\"path\": \"lib/jt9_decode.f90\", \"sha256\": \"ba7e39b91fd066e40ee90c26465a0c49f6d1df61e216bf2778b9605f5eaf8f20\"}, {\"path\": \"lib/jt9a.f90\", \"sha256\": \"ebaf4953232b6998a4f31ee0089a7246dcce275f6cc7ef20cf84c35cab0107aa\"}, {\"path\": \"lib/jt9code.f90\", \"sha256\": \"cd1ffa2c4d969b8fccf2ae024321662f8ccc94730d427ce973a70f07a2f340a3\"}, {\"path\": \"lib/jt9com.f90\", \"sha256\": \"0264f8f42c6892339e7bf93cca7d873d303ddbfdec9fe2f8f9d1c9f9e0610726\"}, {\"path\": \"lib/jt9fano.f90\", \"sha256\": \"0bea626be4bed96fa0a7c0a92fb6767f48c956ebd8d16d2dfbfc77c732b48953\"}, {\"path\": \"lib/jt9sim.f90\", \"sha256\": \"ecab4016adcb228d62e46eef9daea146a5655ecfb35eaf49515a23bfdabdedf8\"}, {\"path\": \"lib/jt9sync.f90\", \"sha256\": \"433c52301ad26f29d68839b25f980d90259296a712feea1852797a0ebb5801d8\"}, {\"path\": \"lib/jt9w.f90\", \"sha256\": \"bea5b66231ee9ba01f2cecfb900dde356c223c9952e02778f630be6841140b9d\"}, {\"path\": \"lib/jtmsg.f90\", \"sha256\": \"7ba4d43916400a7172f62217f6d0fadd1f6e63fb3d6f8055e58af8592b367134\"}, {\"path\": \"lib/ldpc32_table.c\", \"sha256\": \"ca0b87396dd5103e59a37fc603752ba677d91fbe3b2b44a69e527591f0118805\"}, {\"path\": \"lib/ldpc_128_90_b_generator.f90\", \"sha256\": \"1a4cd09fd3d31e9b26b4adb5e5441c8e281196f5e733ead3281106b41b55af65\"}, {\"path\": \"lib/ldpc_128_90_b_reordered_parity.f90\", \"sha256\": \"83f6013af8826f3d6a4b9ca13294786967e804ca2ff2aba1ff41224b79fa10e8\"}, {\"path\": \"lib/ldpc_128_90_generator.f90\", \"sha256\": \"2901048a521206d07f8b19d8cbabfebee6cbd50c9628f311b46049c5528d4f30\"}, {\"path\": \"lib/ldpc_128_90_reordered_parity.f90\", \"sha256\": \"315db5bee1f89c7b7ba5c9c937b42d079c4a924c41d2ff673d9fb93e0ce67298\"}, {\"path\": \"lib/ldpcsim128_90.f90\", \"sha256\": \"7df0fc9566e491e3908ec2a2670d17529fee197027fdbde9ac24e5872890b4d8\"}, {\"path\": \"lib/ldpcsim40.f90\", \"sha256\": \"6fe369f0f3ad98ade97bd07294c1526a5b8a6ee718606a2e1c85daf4316f7b82\"}, {\"path\": \"lib/libration.f90\", \"sha256\": \"831b766d8804bb11a17a345251e33f513a286a1fd71d9809f8e67ef4c88937a0\"}, {\"path\": \"lib/lorentzian.f90\", \"sha256\": \"9be6e77fc9631d1e9dce75ae0e190a63af194511ae2e1d29e29cc2c4f57149b5\"}, {\"path\": \"lib/lpf1.f90\", \"sha256\": \"efbcb41234020ee8c606512345bc66173824a83f91d20afea6970f1434a0b61f\"}, {\"path\": \"lib/makepings.f90\", \"sha256\": \"e68107a4dffeaa0e02f81cf4037d85c9be6a0e10a106c85d3e25429db1f06300\"}, {\"path\": \"lib/map65_mmdec.f90\", \"sha256\": \"38ff4f1d9641332f75e080ed3c125e3eeddc9dbb01f9865c47ac2c444b5196d3\"}, {\"path\": \"lib/met8.21\", \"sha256\": \"a0c14498352d20e7d5799a6b0da28219054f60999be939caf02109be61919360\"}, {\"path\": \"lib/mixlpf.f90\", \"sha256\": \"943434b71975a086f1e4c1c466fa73d0a087d468d3d112647d5f03d67a6cf8d3\"}, {\"path\": \"lib/moondopjpl.f90\", \"sha256\": \"e793085f1c3f5700987f103e298a2e4070c7c7193a75534503e9e25e7ba47eaa\"}, {\"path\": \"lib/morse.f90\", \"sha256\": \"3e13859a71ebb86b5e8f5432a4813e116ff0bfdd9bb79a8c9bb587faf1d07828\"}, {\"path\": \"lib/move.f90\", \"sha256\": \"9c43e01881cc6bf55e4e7a09780897f3d6a492b87f00eceab21fc708a01e3cdc\"}, {\"path\": \"lib/msgs.txt\", \"sha256\": \"91f38e1d04ae09dc5e8578fb11d3ed8a0292c56ed866c51d88bd8a5236f13cbb\"}, {\"path\": \"lib/msk144_freq_search.f90\", \"sha256\": \"a3a6e077d392637c69c0d7eff77d9bfeacd21ac874883e29aa31686e295cad10\"}, {\"path\": \"lib/msk144_testmsg.f90\", \"sha256\": \"2e70049fc76b1b61ec9921eae1fc38f166c43052c79203477fa32b523d2a18ec\"}, {\"path\": \"lib/msk144code.f90\", \"sha256\": \"6de0524bcb9f3a5aef7471b93805382f8489cdd2b2324bf73e163a6d5dc68c0e\"}, {\"path\": \"lib/msk144decodeframe.f90\", \"sha256\": \"dd2bbe8c75ece0629d7625b9960aca9725d2bc1537f1a786d698e55b47465ecd\"}, {\"path\": \"lib/msk144signalquality.f90\", \"sha256\": \"f5648dcfa0241277a2abbaf40f2ef7d77ac375b6925673a192433d417bf6ebb0\"}, {\"path\": \"lib/msk144sim.f90\", \"sha256\": \"af97fa68b6de173f4e2d7de9f0395341c5013318afd55ef4d405813d396da5f4\"}, {\"path\": \"lib/msk144spd.f90\", \"sha256\": \"f20758c46f2b093462dba6dfae169ee6481856eaa00ed3aadaa2e18694d16df9\"}, {\"path\": \"lib/msk144sync.f90\", \"sha256\": \"25a4206dff1ab390a21f2d1e3369ed9c0236ee4b58f00bf47452881aefa31989\"}, {\"path\": \"lib/msk40_freq_search.f90\", \"sha256\": \"aabad587668322c036a2a59fe2f621fdbc95800e6a5518b80d7281b03af72bd5\"}, {\"path\": \"lib/msk40decodeframe.f90\", \"sha256\": \"72971b804818f2d24e064cda7629dbe7d6865eb0000e7c3c99a37a6e8f4c174b\"}, {\"path\": \"lib/msk40spd.f90\", \"sha256\": \"8eca6729cbabe3b096f06047cb32e3f9059b7f7a9a8780769e4643e3beaa2808\"}, {\"path\": \"lib/msk40sync.f90\", \"sha256\": \"a054e276b4a13644c8a6fbaa1ebd4aeb6fd439916af0cfde6affea896183b1ee\"}, {\"path\": \"lib/mskber.f90\", \"sha256\": \"e62aa53eef354fed029165c3c3a03027899b56137aa5d7399abeac6691be1120\"}, {\"path\": \"lib/mskdt.f90\", \"sha256\": \"53ee8ea44ffdc9a423c64c7bc7a00bb3b0bfde38e156c8924878b2c1517720b4\"}, {\"path\": \"lib/mskrtd.f90\", \"sha256\": \"8d4db6a7b9d8f7852482b5d48d225a4c6a411d4fc180739840d96b9aeb82fbc9\"}, {\"path\": \"lib/nfft.dat\", \"sha256\": \"0b1c7ccc8e481112b250e8008a7c1572c6eee6606a4799dcc7db25c442d1d46e\"}, {\"path\": \"lib/nfft.out\", \"sha256\": \"b78fb8906f5dca07defb74df93555475182c76d4cbaec0aa7f98062446771022\"}, {\"path\": \"lib/noisegen.f90\", \"sha256\": \"9e8b8e32d212d80cda4604b38eb2b7da022b952cd7adc1e705417a41697a6f2f\"}, {\"path\": \"lib/nuttal_window.f90\", \"sha256\": \"ce8d1d08774aea5d1b6526e8241f57ecadefd3bf65660acddae7d9174444a463\"}, {\"path\": \"lib/options.f90\", \"sha256\": \"0f269e247c5078a4b85183e7f649383bf3aebd4490d81bc945118dd8442852c3\"}, {\"path\": \"lib/osd128_90.f90\", \"sha256\": \"f1a35255818815138cbcba8798f56506c33290eb7c627ce6c67516322552353a\"}, {\"path\": \"lib/packjt.f90\", \"sha256\": \"f9ef7a6e3088759931c0955388809085a7568a91149fa0a3bfce0db882125241\"}, {\"path\": \"lib/pctile.f90\", \"sha256\": \"93a831fed69abe4891243fb8bbd6471ed58818609ac8e906094fb3122c407733\"}, {\"path\": \"lib/peakdt9.f90\", \"sha256\": \"b92b44c78b8ed594726dafc4bce825c95e9b6cc673ee970c4353f8aed5b8c2b4\"}, {\"path\": \"lib/peakup.f90\", \"sha256\": \"c31329f53f81c1ffc83e0ba7931899faf6d815468f46519851f80fd9aed4c78e\"}, {\"path\": \"lib/pfx.f90\", \"sha256\": \"21b3c4234318f8240a1bf0fe85f78563dc0af19b1963d9497a13e105ddf816b8\"}, {\"path\": \"lib/platanh.f90\", \"sha256\": \"068fc2fb1f1cd9c8149fd42b70baea40b9a2f22bcbb00d722a078e6024c09281\"}, {\"path\": \"lib/plotsave.f90\", \"sha256\": \"eeb588ed126906ce16fdfca4f1774371f9869122dc3a8434ad8eaceff28b1ac3\"}, {\"path\": \"lib/pltanh.f90\", \"sha256\": \"0849049baf1e0acf68b9e4a9e6be9b085f55c57c54520525f20505ebd9d7247f\"}, {\"path\": \"lib/polyfit.f90\", \"sha256\": \"53506b1c7f2a9ed866c7349143a7227ac2bb639bb8f4e90c8d9083c261850cba\"}, {\"path\": \"lib/prcom.f90\", \"sha256\": \"243e7fc57b39f2769ba7ff408f872a11e1c6504ceab77a2b8a7822ba136703f6\"}, {\"path\": \"lib/prog_args.f90\", \"sha256\": \"4b5087f3ea258771bc6698795d46049e354826b82db96a172f4dfe6b2ad0ea5b\"}, {\"path\": \"lib/ps4.f90\", \"sha256\": \"6c37ddcd67a4b9e9229d1f6dc870fa398216a5bd49063699b08c169472cd05df\"}, {\"path\": \"lib/psk_parse.f90\", \"sha256\": \"d3284e6e71b06762ac05a219001dd9a0eb77354b14efaea398ec4d0ed4adcb3b\"}, {\"path\": \"lib/ptt.c\", \"sha256\": \"0d947fb191c5ab55eb8a3d6c3e582f8b37671e9b9f494a6006cefbcb3c24cc61\"}, {\"path\": \"lib/q65_decode.f90\", \"sha256\": \"55c3c67d63a72de5004bc14178728a78b283c396b55d7e66b4009ee8ace3dd95\"}, {\"path\": \"lib/q65params.f90\", \"sha256\": \"066826f31c3dad730b55ac58491ae56dead989722a57a61415ae8a5363689ff4\"}, {\"path\": \"lib/qra/q65/Makefile.Win\", \"sha256\": \"c54903c5145c926105d4e727e97f54bdfb1917a3860cb7945333c305ff6fc1ad\"}, {\"path\": \"lib/qra/q65/build.sh\", \"sha256\": \"e588dfbf340068d1680e9a510a6a7dcb9ee99c3b6fe271ff5c34237b7c893797\"}, {\"path\": \"lib/qra/q65/ebnovalues.txt\", \"sha256\": \"e0c6b1916d53f16e385a3ab27a3a1709f8dce729a037433ca683d280e052613d\"}, {\"path\": \"lib/qra/q65/fadengauss.c\", \"sha256\": \"34ed7c968bf7fe89e08e52dae925496244087eb6cb649361941e2513f383b7b9\"}, {\"path\": \"lib/qra/q65/fadenlorentz.c\", \"sha256\": \"4692d7c2461ab1bd4fab81a3b4ca614b21bd14d08a7160bd137d3e08cf466399\"}, {\"path\": \"lib/qra/q65/genq65.f90\", \"sha256\": \"fbb6c06d7897e4f75c2bba2782a2530052b3056d41ba52fe902e5698b547a0ff\"}, {\"path\": \"lib/qra/q65/normrnd.c\", \"sha256\": \"47f7a73121c6c02e63222b4fa78a3a65837471917b5fcd3fdd7b8f4fa3bf8e44\"}, {\"path\": \"lib/qra/q65/normrnd.h\", \"sha256\": \"f1131cb2727cd5a7012d54784c0e7017fa1b699a01fa0a1e86a6aa3592ed43fd\"}, {\"path\": \"lib/qra/q65/npfwht.c\", \"sha256\": \"62c0f85f2502077363c27f5c2cece6ea6b51858434b220daa946f116dba6aec1\"}, {\"path\": \"lib/qra/q65/npfwht.h\", \"sha256\": \"5ce36afef69653727cba9f3fae4a2dff5a116567efb0e6c0ff6026e4c81e1161\"}, {\"path\": \"lib/qra/q65/pdmath.c\", \"sha256\": \"dc9c7ee38cc5031a1101c0f174f91305d258029799d893c3b870e11e8cb3a44d\"}, {\"path\": \"lib/qra/q65/pdmath.h\", \"sha256\": \"0e7349b520247fca53672ca8663309fbf30e631ecab7070f605287efd4cb610f\"}, {\"path\": \"lib/qra/q65/q65.c\", \"sha256\": \"a327046a6462ad66a98c2b432a372b176fb3c0843930577191b46e8b2fcb8af9\"}, {\"path\": \"lib/qra/q65/q65.f90\", \"sha256\": \"2a613f8a4faaf0fb25329845ba13394571cc6701309c2d90646d107b429de897\"}, {\"path\": \"lib/qra/q65/q65.h\", \"sha256\": \"306520426531a1f24a14dd508d75a7e73023c9b2e519e354d66f503075c7b40d\"}, {\"path\": \"lib/qra/q65/q65.sln\", \"sha256\": \"ff1bf5151a4853e939d3b99383b8237d62037fa69f7c52c9dd60a454a8b3a779\"}, {\"path\": \"lib/qra/q65/q65.vcproj\", \"sha256\": \"8f8ba83520f5e5a44f113aad864beeae1149cb31aab43cde7bc86fa88292a008\"}, {\"path\": \"lib/qra/q65/q65_ap.f90\", \"sha256\": \"c5ad037f48953503e8c20c24981609d5364868437a1ca0682bf511f2ec2b4eb0\"}, {\"path\": \"lib/qra/q65/q65_encoding_modules.f90\", \"sha256\": \"94c0fbef56185cc4676f462e5e09c7275754c2fa46024a3db1ad8443eef12ff5\"}, {\"path\": \"lib/qra/q65/q65_ftn_test.f90\", \"sha256\": \"80c3c67facb4341b736e11c9a89f0d2faab7c5cff9535cefe10180b7bfc59d33\"}, {\"path\": \"lib/qra/q65/q65_loops.f90\", \"sha256\": \"653801a529c5898b255590513c37bd97624705225ac06ea47884b5b07e1fad74\"}, {\"path\": \"lib/qra/q65/q65_set_list.f90\", \"sha256\": \"f5c98ea1be893e713fb0f8abb16fac0314e2ca77a2ead966955b877288f3c259\"}, {\"path\": \"lib/qra/q65/q65_set_list2.f90\", \"sha256\": \"49aaaf249b99f404c05891936e121e5bb19fa03d9e54a2e079056351c6c19b30\"}, {\"path\": \"lib/qra/q65/q65_subs.c\", \"sha256\": \"3239003d331032837fa658b9241a4ae348767fbf2c68060306795ac434982765\"}, {\"path\": \"lib/qra/q65/q65code.f90\", \"sha256\": \"854e9e5cba90b407e3a85ba556083e50ce73d2586c3f70fe7da7d3248a9321db\"}, {\"path\": \"lib/qra/q65/q65sim.f90\", \"sha256\": \"e2837226989e352d7d7bcc8d305e3282a96ff9048d8fc52e5dfd9cf359c6ec6f\"}, {\"path\": \"lib/qra/q65/q65test.c\", \"sha256\": \"f3dc2e85c8fc5b80155d7b4994add357a118464a3a1e432bad01edb2b2c4442f\"}, {\"path\": \"lib/qra/q65/qra15_65_64_irr_e23.c\", \"sha256\": \"211c0cfe207b1deb1939e3bf0405f5c158815414d963344400231feef1740975\"}, {\"path\": \"lib/qra/q65/qra15_65_64_irr_e23.h\", \"sha256\": \"5cd8d96b298e1e7fff189d52fe42c547edac3098d5245adb5d1c5b4ca52b9455\"}, {\"path\": \"lib/qra/q65/qracodes.c\", \"sha256\": \"ec876cc1992b12315ec98e46eca2c98303142ed0396a07b80b2d347c89f7107a\"}, {\"path\": \"lib/qra/q65/qracodes.h\", \"sha256\": \"05261d2a1a49b73302eea6989c6ebdd3dbc8db78983a140c4a2b94f34087b43e\"}, {\"path\": \"lib/qra/q65/wer-ff-qra15_65_64_irr_e23-ap00.txt\", \"sha256\": \"06043f48c95309a9918ded81f3fe8d5069f34deea9e3798e0a5789c86c4150ed\"}, {\"path\": \"lib/qra/qracodes/Makefile.Win\", \"sha256\": \"095d09fcfe422bd8d1d94b709bc5163f5bbc298f5e61700274f5712bcbff2ac6\"}, {\"path\": \"lib/qra/qracodes/ebno10000.txt\", \"sha256\": \"99a9c2fe875cd3056a405629e316407c6a7da3480494ac16d66a78af030aa804\"}, {\"path\": \"lib/qra/qracodes/ebnovalues.txt\", \"sha256\": \"622bfbf0e68abe39e92fa5bf19150b54045377cd84e02b0a2d20899a37395c5a\"}, {\"path\": \"lib/qra/qracodes/ebnovaluesfast.txt\", \"sha256\": \"d53830b53315097f4c2975a1b567a4917331c6aa5a3e4e6c5db54eb54093bb3d\"}, {\"path\": \"lib/qra/qracodes/main.c\", \"sha256\": \"7333050afc518d3804c684249eb29a5581944d3249d323ca65e3333f909ec389\"}, {\"path\": \"lib/qra/qracodes/normrnd.c\", \"sha256\": \"47f7a73121c6c02e63222b4fa78a3a65837471917b5fcd3fdd7b8f4fa3bf8e44\"}, {\"path\": \"lib/qra/qracodes/normrnd.h\", \"sha256\": \"f1131cb2727cd5a7012d54784c0e7017fa1b699a01fa0a1e86a6aa3592ed43fd\"}, {\"path\": \"lib/qra/qracodes/npfwht.c\", \"sha256\": \"62c0f85f2502077363c27f5c2cece6ea6b51858434b220daa946f116dba6aec1\"}, {\"path\": \"lib/qra/qracodes/npfwht.h\", \"sha256\": \"5ce36afef69653727cba9f3fae4a2dff5a116567efb0e6c0ff6026e4c81e1161\"}, {\"path\": \"lib/qra/qracodes/pdmath.c\", \"sha256\": \"dc9c7ee38cc5031a1101c0f174f91305d258029799d893c3b870e11e8cb3a44d\"}, {\"path\": \"lib/qra/qracodes/pdmath.h\", \"sha256\": \"0e7349b520247fca53672ca8663309fbf30e631ecab7070f605287efd4cb610f\"}, {\"path\": \"lib/qra/qracodes/qra12_63_64_irr_b.c\", \"sha256\": \"8973610119083ea5eede5c305d5e1f87a0c4555a1f679b381bdb9fa0c7b0ce21\"}, {\"path\": \"lib/qra/qracodes/qra12_63_64_irr_b.h\", \"sha256\": \"a747f927ff9ed7f0f049d8043e4c63b814bb4eda395dcc38765567476fc22f19\"}, {\"path\": \"lib/qra/qracodes/qra13_64_64_irr_e.c\", \"sha256\": \"b3eaacafa2fe115a1a1a4734fea39dd9111058a0620f20287a483b3c39dd108b\"}, {\"path\": \"lib/qra/qracodes/qra13_64_64_irr_e.h\", \"sha256\": \"744f90c9e515726b56df481332db142380bbaca5562e2d0e5a06b08b7c62e178\"}, {\"path\": \"lib/qra/qracodes/qracodes.c\", \"sha256\": \"ec876cc1992b12315ec98e46eca2c98303142ed0396a07b80b2d347c89f7107a\"}, {\"path\": \"lib/qra/qracodes/qracodes.h\", \"sha256\": \"eb0ced3e795cdd900976623888e2b3917597b347f90afe9efa50c740a147fb14\"}, {\"path\": \"lib/qra64code.f90\", \"sha256\": \"480435d6d25f97d686752fcc6cecc9bbec3ff37993d639199ad136fdbe1c1912\"}, {\"path\": \"lib/qratest.f90\", \"sha256\": \"9d7ce2ee13ffec198dfccc98b9bc1d921a49ca6878e40ccb45781bf7ec9d9503\"}, {\"path\": \"lib/qso50/g0\", \"sha256\": \"461169025cef9f9124e88c5c0e40cba90e8af7f2fd774ad8df0e8a51fdde80d4\"}, {\"path\": \"lib/qso50/pack50.f90\", \"sha256\": \"a5db6a394451d3198d4f02bd7f56ecfc3ea213a7a166bf5efe281a481e597c9c\"}, {\"path\": \"lib/qso50/packname.f90\", \"sha256\": \"4a232b484c3d6afc8b5d94e493277a34f0c852988ed8c687a031565dde29746c\"}, {\"path\": \"lib/qso50/packprop.f90\", \"sha256\": \"2ba88f9fb39ade1e195731ab8f8e39826c9bf24ece88dcd6bcbba06870df790c\"}, {\"path\": \"lib/qso50/packtext2.f90\", \"sha256\": \"3f066ba36ae5506c45a09a7c310c7c07774620c9d1a89d8d65f5f062e00828aa\"}, {\"path\": \"lib/qso50/twq.f90\", \"sha256\": \"8d90647be56160027056173137171293e27ab7521a7e74eba66e5b203bcad9f9\"}, {\"path\": \"lib/qso50/unpack50.f90\", \"sha256\": \"015e3952c8d844238346787b7e9812db9e3ea78262bd2df754722cdfd2878306\"}, {\"path\": \"lib/qso50/unpackname.f90\", \"sha256\": \"4d81d2c4016e488ed84c78b815f55dfe0ce2360b3b86e6bb8f3caf3d33f92b52\"}, {\"path\": \"lib/qso50/unpackpfx.f90\", \"sha256\": \"b9310a91ab1729740108294afe758737a45b95f1823822d5bd145c7b1999ff38\"}, {\"path\": \"lib/qso50/unpackprop.f90\", \"sha256\": \"9c0d0aaa880952cef09b26ce80126279a461d367b7470e0f93caaa109edec263\"}, {\"path\": \"lib/qso50/unpacktext2.f90\", \"sha256\": \"be1b7460162d824ae1744adcb9cb068654d74e1823b4c9666a62b0df43b019f7\"}, {\"path\": \"lib/qso50/wqdec.f90\", \"sha256\": \"a5c2efc6e6870e9da81ac16a188b3374b670beeafe89e0adc82c171984943594\"}, {\"path\": \"lib/qso50/wqenc.f90\", \"sha256\": \"42af205deb6f2e73c80cb731f5554d545550e7d200d8866bdbdb3731e4dac3e9\"}, {\"path\": \"lib/qso50/wqmsg.txt\", \"sha256\": \"316d0a9954fa672758335fc810cc2323edbe268c5b70b5d56d4584dfeb539fb6\"}, {\"path\": \"lib/readwav.f90\", \"sha256\": \"25c05c0f32e929b5b82c03dda36bdde8a97c23491218ab2d89ab5d7033722191\"}, {\"path\": \"lib/rectify_msk.f90\", \"sha256\": \"6528e0205cd6b59cf2f7a23be5f615573814a062c17c0d2509bd6194e9a2b0cd\"}, {\"path\": \"lib/refspectrum.f90\", \"sha256\": \"55187bf6d9c1962c939098b5fecc6b5e5720112019719bfa7b1dff5c499065bc\"}, {\"path\": \"lib/rig_control.c\", \"sha256\": \"a0e2de6ba318d992ad5a0f1cb980f80ede031a4638195adc953c43f52a4c77da\"}, {\"path\": \"lib/rs.h\", \"sha256\": \"bdb938c4b0959c976232b72902093b62f8a894c739fa205b5a525eab544f3c78\"}, {\"path\": \"lib/rtty_spec.f90\", \"sha256\": \"997015cba4eaccf7782a6886f6dfc7b1c55cd762bac4fce0142b488ac66207f0\"}, {\"path\": \"lib/save_dxbase.f90\", \"sha256\": \"c38d4248efcd2182a005cd372dcb40e772ef2fe6b30afaa94244cf248ffc03ef\"}, {\"path\": \"lib/save_echo_params.f90\", \"sha256\": \"ce141310e2a135cceda0b554e1cfce2cdb3aac09f915887a739b32ac604fbb37\"}, {\"path\": \"lib/savec2.f90\", \"sha256\": \"b90efa3d1c2f304e2bfd793369f8a446a481b571c310fe1c79b16527a186e5c1\"}, {\"path\": \"lib/sec0.f90\", \"sha256\": \"5767ed8aaa2244512d1af0c45a3ed8381bbfb67e1ded4b2f8cc7c26f8ff639b7\"}, {\"path\": \"lib/sec_midn.f90\", \"sha256\": \"a4934e174ccbbf4594995cbf64aa6be2490359d551695087f2f9386755587892\"}, {\"path\": \"lib/setup65.f90\", \"sha256\": \"5617d1c4d157d84af7a54aaa486fbfb8ca4d71f987bb063e483310b2edec2d7e\"}, {\"path\": \"lib/sfrsd.f90\", \"sha256\": \"c0b8d23f116d82d26f4b57cfd783aad770e05f4a968089acfb9025d706220c53\"}, {\"path\": \"lib/sgran.c\", \"sha256\": \"1a6f28f0ae427548d24db4fb6793d9dae9295f8bf66581018f37ed8efb9c6dd9\"}, {\"path\": \"lib/sh65.f90\", \"sha256\": \"34a4dded7f483b137bf9c69c78c83fe7a19062edb595b67dd46e2694c1efeb74\"}, {\"path\": \"lib/sh65snr.f90\", \"sha256\": \"950d194e61379332fd8f35214cbd3c7688bafa2707e20afaa398f08ccaf4c4d4\"}, {\"path\": \"lib/shell.f90\", \"sha256\": \"c6d78900a8fe01df00994f7af2b628c5dee69f9111877b31226cddcdab995465\"}, {\"path\": \"lib/shmem.cpp\", \"sha256\": \"3df651fbf0733065ed5889ebc4b9414fd294bf7ef6fea75b5b79da3789dbad7d\"}, {\"path\": \"lib/shmem.f90\", \"sha256\": \"eb502c6a9ad365fcbd4103611f33f7a62933821b21352884c10a12b5a87e4c11\"}, {\"path\": \"lib/slasubs.f\", \"sha256\": \"44485952d7d7697c867456e42db1eb0afa7257d909138df213ce5bf4d673ec21\"}, {\"path\": \"lib/sleep.h\", \"sha256\": \"605c0efb565ff8e52e78ed10b186ce1af00abb4fd60f05a9a4f4694a8e7b81d7\"}, {\"path\": \"lib/sleep_msec.f90\", \"sha256\": \"9e057f111e0c4424a4bd7564834ec9b8ca33d0b47da62906d666927377382272\"}, {\"path\": \"lib/slope.f90\", \"sha256\": \"3c88c2ebaed508dcb8d455b106c37133d7ddd88711ff3aaa4f5b63c870403827\"}, {\"path\": \"lib/smo.f90\", \"sha256\": \"8da7d4ee1d1e1d458c521aa852d21afbd131ecadfb767a40f0693d948cbbb04b\"}, {\"path\": \"lib/smo121.f90\", \"sha256\": \"9d976e357505bcd2e326e728828a00ca191c77a182c8b929ad8c8fba60999062\"}, {\"path\": \"lib/smolorentz.f90\", \"sha256\": \"965a94c6ff32790b8d1b9b81570a849343098d243daed6967df1ed3c1dd49d94\"}, {\"path\": \"lib/softsym.f90\", \"sha256\": \"ac4fcaf393903822a4765bd58edcada4438e2b00b4c0ec6e9fa622854c40f6c3\"}, {\"path\": \"lib/softsym9f.f90\", \"sha256\": \"c1c12963f0230ce81e96defe92be167e80a5d9140b1e9a314426c3e0ef13a599\"}, {\"path\": \"lib/softsym9w.f90\", \"sha256\": \"2e58b8c05707a17869ee8fc13020e554417d63a9919ca3daf218747c26331dbb\"}, {\"path\": \"lib/sort.f90\", \"sha256\": \"8c12fce78393274cd7d5746e92b66a55f85f8fdf0dadfee523ab9ff8cf889c94\"}, {\"path\": \"lib/spec64.f90\", \"sha256\": \"b5bd6e97451eccdf3ce929f6cf10beba824a8721e0e63044d40de3d329e28da5\"}, {\"path\": \"lib/spec9f.f90\", \"sha256\": \"2871a983a839b47de52e7fa956239410a84c97b12cf2c5ed2934d6e14afcd1c8\"}, {\"path\": \"lib/spec_qra65.f90\", \"sha256\": \"9fd55ef8b5dc58430a0ba38deece6d8a4c3fe9e10fda0e6846f6eb8624478057\"}, {\"path\": \"lib/ss.bat\", \"sha256\": \"6e83f0c31ed7ee21edd2ad6b92e0bc22311a05cea6733c324883c0802869c890\"}, {\"path\": \"lib/stats.f90\", \"sha256\": \"6b0bb039a24d2bfa411c8a88f9254987d82d1715a5072eba00d9f957773236c1\"}, {\"path\": \"lib/stdmsg.f90\", \"sha256\": \"c421fde242aea701daf1cf42e7c203b8b6114c2dcd0e62630eb63fc127b51804\"}, {\"path\": \"lib/subtract65.f90\", \"sha256\": \"2e4f5eb55ab769bce6bd9857f5eb828f75cdb76829be309bb0c4af62fa168845\"}, {\"path\": \"lib/sumsim.f90\", \"sha256\": \"57844c81e5f6270cc561fa68c3fbf0b6dbbeaa5d8bbf5ba27ac08682d5fc5fd4\"}, {\"path\": \"lib/sun.f90\", \"sha256\": \"b3f5f7121ce76f1ca86fb8d496487e2d609071b89cddffec8327a7aa83e03d30\"}, {\"path\": \"lib/superfox/foxgen2.f90\", \"sha256\": \"e0ad620181ec6469adf4b95779583b3ce4c1326bd7e1891bf6af102407856dbc\"}, {\"path\": \"lib/superfox/ft8_params.f90\", \"sha256\": \"899f84570105c2f6a13875d0fb4cc911eaa2442167796c9d3eb560451eb967b3\"}, {\"path\": \"lib/superfox/gtag.f90\", \"sha256\": \"636d0af188a9f93e8ed20b50d26f427449a93109cd1c9d06c2e128e57bdf0a47\"}, {\"path\": \"lib/superfox/julian.f90\", \"sha256\": \"27a4a561ab8f2a6ac039ffe07df47d23c37a3ddec94eb33de23bb32e03cbe9a1\"}, {\"path\": \"lib/superfox/popen_module.f90\", \"sha256\": \"4ef025a4a9c06539c9234bacb5ed43465e565fb6419b6d4be039ff34c30475ec\"}, {\"path\": \"lib/superfox/qpc/dbgprintf.c\", \"sha256\": \"4bbda314b08062f45cd8adf530ff126e48ba891cae5b3f24eeaaa3a2aac073eb\"}, {\"path\": \"lib/superfox/qpc/dbgprintf.h\", \"sha256\": \"afd8cf61600cd3b7589dbeb590ee1e8a23b4b242925d9c2572450f7758fc934d\"}, {\"path\": \"lib/superfox/qpc/nhash2.c\", \"sha256\": \"e9753576e4a48c2c708cc299bc20ad5986699168f1e1c6a47e69d0cc1b414edb\"}, {\"path\": \"lib/superfox/qpc/nhash2.h\", \"sha256\": \"047372e4f95708c891daefcb08246ac25d81ae10a229e2a42f0e9598f62210c3\"}, {\"path\": \"lib/superfox/qpc/np_qpc.c\", \"sha256\": \"27bd96c0be0ae9f176299125946f516f4356c693e8072d30c9141f27cad98684\"}, {\"path\": \"lib/superfox/qpc/np_qpc.h\", \"sha256\": \"7ec66cf7bee90011cb1f253bd9fd0e32a57b0c8b66160a069e70dbab29a89048\"}, {\"path\": \"lib/superfox/qpc/np_rnd.c\", \"sha256\": \"332bafc7acb1dec3c4b32913398c7ec3d7e4af37834001b6133e177689bab1c1\"}, {\"path\": \"lib/superfox/qpc/np_rnd.h\", \"sha256\": \"24337d7bd78b7508b17221dc585a280e6eb2f74b5ab56fd18a552f5246989c6b\"}, {\"path\": \"lib/superfox/qpc/qpc_fwht.c\", \"sha256\": \"51dd126d754e3b002d26df4e89c9140c5b664ac1d99955c897c1fac06e693c99\"}, {\"path\": \"lib/superfox/qpc/qpc_fwht.h\", \"sha256\": \"370b2cf5cb992f109059b1c20e5244d3e48f8a1a3c12a1ba3bb56caec4af0c6c\"}, {\"path\": \"lib/superfox/qpc/qpc_main.cpp\", \"sha256\": \"c545f003b2070c6acd589a5c81ee62568fe8387ed9f6ab8b97a21719b364d587\"}, {\"path\": \"lib/superfox/qpc/qpc_mod.f90\", \"sha256\": \"e7c48f30a315c2df5207a9eb295e087f9b41d8a1b603c22d3e1c284eeff407b4\"}, {\"path\": \"lib/superfox/qpc/qpc_n127k50q128.c\", \"sha256\": \"89ada8c525850cbbc805af81c8c525ea881fe9b053706ecde7da0057189be3c9\"}, {\"path\": \"lib/superfox/qpc/qpc_subs.c\", \"sha256\": \"9e2e38cc46d513d4ebcd5c43eaf0ebb8be0b92467426f4f0cf5611e5e4013b94\"}, {\"path\": \"lib/superfox/qpc_decode2.f90\", \"sha256\": \"8d5c07e0918f209417537bf97c6310d7c5b692dad1de35dd61296c4e442e8460\"}, {\"path\": \"lib/superfox/qpc_likelihoods2.f90\", \"sha256\": \"4ad40cd588883ce461049ad9a557ae47d2c1213d4aa8311066128445e2befa25\"}, {\"path\": \"lib/superfox/qpc_snr.f90\", \"sha256\": \"2d34787fa9181abc5154e82069c6dd9e8227e6b2690d2fe594bc16e5b004721d\"}, {\"path\": \"lib/superfox/qpc_sync.f90\", \"sha256\": \"6ec33a1ba5589d383b559969beffa4ca1507e7629929047f2331c073138ee36f\"}, {\"path\": \"lib/superfox/ran1.f90\", \"sha256\": \"7dae70b8fdcf8ad5b381247bef7110a44555d35a3b153498d12d77cdc5334a99\"}, {\"path\": \"lib/superfox/sfox_ana.f90\", \"sha256\": \"4d2e5477221b9ed00c353976e5955c5ceac6b2ed0aedbb806f906376268d0fe2\"}, {\"path\": \"lib/superfox/sfox_assemble.f90\", \"sha256\": \"7ace9fe872741d83c6929a0f1c047258b656e201edc09d973bd93c76eeaae2a6\"}, {\"path\": \"lib/superfox/sfox_demod.f90\", \"sha256\": \"6a636d4e4a4ce6155ef3b965f974ca38cb435d105c82efae67476e6b8c0beaec\"}, {\"path\": \"lib/superfox/sfox_gen_gfsk.f90\", \"sha256\": \"677bf55804a10348011f8edae377e93fb67d17d2316f3f6c06a59f8de63c5d4a\"}, {\"path\": \"lib/superfox/sfox_mod.f90\", \"sha256\": \"7e975360bf27031aaba80d0eb516ea627361f0e82d341ac760efdb3e24819f79\"}, {\"path\": \"lib/superfox/sfox_pack.f90\", \"sha256\": \"37f14cf20a3eba7de9d465975f0ff545afcb078958ec50a802f88e41e9717a6b\"}, {\"path\": \"lib/superfox/sfox_prob.f90\", \"sha256\": \"eca5cbc5d89cba52f0c437ba8def07b66ac86b67a0e44452d51db1ef8471b03b\"}, {\"path\": \"lib/superfox/sfox_remove.f90\", \"sha256\": \"6b67a8c57d6a82843e2d4ef1f4eb6bffd6da8cff844418687b34f3b0a2d99adf\"}, {\"path\": \"lib/superfox/sfox_remove_ft8.f90\", \"sha256\": \"c3cb2be5dce1a7ec7be0c75a53fd6b5fbdc6860ea8697efb06338312907ac6a0\"}, {\"path\": \"lib/superfox/sfox_remove_tone.f90\", \"sha256\": \"0985d8e51883e4246743d702ae0d1ee5d4d156263131c07953949e8cf998b8a3\"}, {\"path\": \"lib/superfox/sfox_unpack.f90\", \"sha256\": \"fc19252b8f624f6b7758bbebfdeedab8456c7d718be41bacc64863bac00b1ccc\"}, {\"path\": \"lib/superfox/sfox_wave.f90\", \"sha256\": \"d6603a8f08a4f1cd9ab72e317d9898067d0f19992ccdcc63a0282dd32c1973bb\"}, {\"path\": \"lib/superfox/sfox_wave_gfsk.f90\", \"sha256\": \"6a8e43c328fbeb803b4799b0265172e476c2e5f170942fb4fd295f0be7c3e9b5\"}, {\"path\": \"lib/superfox/sfoxsim.f90\", \"sha256\": \"b5e222b76a2d752759923cf697c0e071461847d79d19f892f7f699f4bfdcd8f1\"}, {\"path\": \"lib/superfox/sfrx.f90\", \"sha256\": \"3bfff5127328771bb939e5d2f6a77525c7a37869e3d57576040ba9892100ab94\"}, {\"path\": \"lib/superfox/sfrx_sub.f90\", \"sha256\": \"5cae796d9ca547ec26a24452b7933d019c91d96fafef49829747fe481ba41ca6\"}, {\"path\": \"lib/superfox/sftx.f90\", \"sha256\": \"5db551d26e1460a906847e19984ebdb6f12717a2cfeb52d75a34a50dbe0039ca\"}, {\"path\": \"lib/superfox/sftx_sub.f90\", \"sha256\": \"7c4d10622e1b0ef86ec5351decff49f966a8d1b1fffc40ce81bdf958dabcf21f\"}, {\"path\": \"lib/superfox/superfox_qpc_2.txt\", \"sha256\": \"3db9ef6fe2d30911f3dd39d748b6720bf94cbd78ae3440cda0ff9d9a1bdabacc\"}, {\"path\": \"lib/superfox/twkfreq2.f90\", \"sha256\": \"6edca21ff32064d823df4385ac1dde014db12d9fa6538190bc2a279faca08156\"}, {\"path\": \"lib/symspec.f90\", \"sha256\": \"cf16ddb43e0cc974eab450425f27e8de9c7bd816e7ae694b9b888abf7cc4fc17\"}, {\"path\": \"lib/symspec2.f90\", \"sha256\": \"494e753fcfcc94e2c927322e9da0fbff320130988a4b7e52b86369617bf845e3\"}, {\"path\": \"lib/symspec65.f90\", \"sha256\": \"8ca2a1d441d86be3a473d291a7ea8dd7b98c94e97dadded71ca1dabf7c14f151\"}, {\"path\": \"lib/sync4.f90\", \"sha256\": \"ddb04d5ef93d4572d9fa8f3da7665c10fc564ac261b06eb06140273f8396ffff\"}, {\"path\": \"lib/sync65.f90\", \"sha256\": \"611220422844380553f2e8fcde5ccb6fff8ce816e2d7af61a7147d46408ecd5f\"}, {\"path\": \"lib/sync9.f90\", \"sha256\": \"a633b4ec6a6ca3ba321b1bb5bd7bcc70836a97e0ae3a790589c1c986bd14c23c\"}, {\"path\": \"lib/sync9f.f90\", \"sha256\": \"a4f12610b8d3571265e11f8049a0429aa77d489c7fcac9c15659fa4ad6e87ea5\"}, {\"path\": \"lib/sync9w.f90\", \"sha256\": \"7b2418e51c3c11efd369c7477cdb5c0c601749bb86c3a9285fd840e30223f65b\"}, {\"path\": \"lib/syncmsk.f90\", \"sha256\": \"350a2c50e1da256b9f7191f2b6937391938c59c3b778a95ff5596f790c4f6dd3\"}, {\"path\": \"lib/tab.c\", \"sha256\": \"ae5f65887ca346dd4babfadcba6b2c04c20bf12c87947ff1ed7f2159a8e7e696\"}, {\"path\": \"lib/test_init_random_seed.f90\", \"sha256\": \"301ed27ed7c5cd0b0a41cd76ffb459a317448b32f670d1d910ece35f15b903ef\"}, {\"path\": \"lib/test_q65.f90\", \"sha256\": \"0a66dfb3e1d9403bec288c2ca8d3d9bf2a8afe5e53fffb4419212f55c0a1d069\"}, {\"path\": \"lib/test_snr.f90\", \"sha256\": \"e1fa8d3ca5d59d9e8b8a4028781e24cdebebe201aefea9d24bbe47db2b87c7fe\"}, {\"path\": \"lib/testfast9.f90\", \"sha256\": \"1607242a21390cae8055a17ab2346e32892df30bf94322adc516d35cb17e42f7\"}, {\"path\": \"lib/testmsg.f90\", \"sha256\": \"595d642aa15ef4f8a762d342266682e90e9b75e0a12c2b6e8d8050f4e466372a\"}, {\"path\": \"lib/timefft.f90\", \"sha256\": \"1a1c1d00e25dff2612946a5d8a776f1eaf4554807f985d203470eab0862f4a14\"}, {\"path\": \"lib/timefft_opts.f90\", \"sha256\": \"35dc4400655b19354a947024121960f89d01f44e12572ab2d7e830c9384148f6\"}, {\"path\": \"lib/timer_C_wrapper.f90\", \"sha256\": \"295c329aeed4cf7103c5ba2426b49bacab5f441e07a364855faea6405156eb55\"}, {\"path\": \"lib/timer_common.inc\", \"sha256\": \"6d55d459e3858bf6add4811d20336bdfecf0262bce0bd48188f108d2393f0dde\"}, {\"path\": \"lib/timer_impl.f90\", \"sha256\": \"04d47f0d65161581ed043d19d4bb8f636dfde96872eb49196350b8e9924f8aad\"}, {\"path\": \"lib/timer_module.f90\", \"sha256\": \"1cd01c58f33c3902ed1096b0b71845992fa2b0f42fb300603f34e225d7079ef4\"}, {\"path\": \"lib/timf2.f90\", \"sha256\": \"398d7a55e55e4c4fd3819b8b4eec263786afb8c81bfd6c1937ff2973969707ce\"}, {\"path\": \"lib/tmoonsub.c\", \"sha256\": \"189af7b281edc070355aaa0382a8e4516c76198b352dc22a0cc22a5cf6235082\"}, {\"path\": \"lib/to_contest_msg.f90\", \"sha256\": \"de20c38eadfe2057289d56cc46310e8438ac6dfe1d39df6af45ea031a59d69a4\"}, {\"path\": \"lib/tstrig.c\", \"sha256\": \"ec9abedf7464f4ae43bd78a76e13c0c4c3b056c4add2f71ef5ce7df521e7b542\"}, {\"path\": \"lib/tstrig.h\", \"sha256\": \"3c6169ffd0b54bb5d739199d124c4518f3cb43f72a3eeb8b0de8d634f45f8391\"}, {\"path\": \"lib/tweak1.f90\", \"sha256\": \"9e4306a99a501669e6e518dbf9b1187ba52b448b08ab49034b96108ece03662a\"}, {\"path\": \"lib/twkfreq.f90\", \"sha256\": \"1ab775c3dcc25dae100983eedae1a6c154371256e62ee8186078a9183541e394\"}, {\"path\": \"lib/twkfreq65.f90\", \"sha256\": \"4497878f28bd125a27ee36152a186fba64550307576b6fab31a42632443da14b\"}, {\"path\": \"lib/types.f90\", \"sha256\": \"57d36ea99f36ba3a5ce7302d094afc9aaac53e981c331f7904076ac7e9027989\"}, {\"path\": \"lib/update_msk40_hasharray.f90\", \"sha256\": \"a8a8afca366c3ea478bf31e64541b9fa59a9e79403d63fa1cddb7472887a47f5\"}, {\"path\": \"lib/update_recent_calls.f90\", \"sha256\": \"90af60463aef1bef5a60bcf29b075095970675ad1c439a485c71668c420a98b7\"}, {\"path\": \"lib/usleep.c\", \"sha256\": \"66de4a5dbdfc4d997d4e0935043bbf74a01044c9b840df90655a1f35c0ee39af\"}, {\"path\": \"lib/vit213.c\", \"sha256\": \"d91bb8a4a6330f879dda302181ff1eed3ef396d3c3330706cfbb97c663733374\"}, {\"path\": \"lib/vit216.c\", \"sha256\": \"a5ce43e7cb34b4f1a4c8ab7997db13152450d4a7fa1e5752ebb523bcd8a95b83\"}, {\"path\": \"lib/wav11.f90\", \"sha256\": \"f29db4dd2b2967745407db01d164a32fb3d11772704e02da6ce9db6e7960aed3\"}, {\"path\": \"lib/wav12.f90\", \"sha256\": \"b380dea2da8698e2d9f502202d764fd277d1858b20dfaf4aae591e7ffbf9a9da\"}, {\"path\": \"lib/wavhdr.f90\", \"sha256\": \"3b02c92d32ecb0f4896946959f87273baecd22dfd8b4e2bc108dcde244e58e94\"}, {\"path\": \"lib/wisdom.c\", \"sha256\": \"37d483a0a298e58e4c017aff086a92709dca32d923cbc0d7b493983e08a173fb\"}, {\"path\": \"lib/wisdom1.bat\", \"sha256\": \"f2342a8bf7a5a5d57a4c280b92b7541a464dffe1f9a4c6973a8efe8cadb68502\"}, {\"path\": \"lib/wqdecode.f90\", \"sha256\": \"31a8bab093ae9c525af50ed32dee0df40953114580b60b7eef634bce6534b1df\"}, {\"path\": \"lib/wqencode.f90\", \"sha256\": \"eb0df5f3f543b19cbf8180230488438dee8fab0c27a2854d413ad803dc3b32e8\"}, {\"path\": \"lib/wrapkarn.c\", \"sha256\": \"bb2757776f3407b1e4286100f4ddf31a759dd779cb6eeb20a2f99a4938bcb89c\"}, {\"path\": \"lib/wsjt_modes.txt\", \"sha256\": \"fe913593a13b70a31739d31e7bdf3e219e61bc666a909266b6fe3901f8ba00ac\"}, {\"path\": \"lib/wspr_downsample.f90\", \"sha256\": \"4cf202c26b4731a2b31773ab340851f95ee5d3b05bcedce60968829d8899c36a\"}, {\"path\": \"lib/wsprcode/go.sh\", \"sha256\": \"d1f6fa4f3a13d4dacdfe62adcc0b60790ef7a9331982322c91c3d1aa95f50aa1\"}, {\"path\": \"lib/wsprcode/nhash.c\", \"sha256\": \"379502fcfa1c3e34b6f58fd81a9fcacd64f2015826629e63138ef1fedc66489b\"}, {\"path\": \"lib/wsprcode/wspr_old_subs.f90\", \"sha256\": \"72877f29a577dd06e01d9d23643db1c485c52ca4371912aa68ca19948085b497\"}, {\"path\": \"lib/wsprcode/wsprcode.f90\", \"sha256\": \"2db48e254db019deb6b3130bc00b6fd845aece4c37a06e0f9adaf0cddf625f78\"}, {\"path\": \"lib/wsprd/Makefile\", \"sha256\": \"b4d84cf588f33a54b93d261f547d0177112e88ae60b0cc92bd11887004767dfe\"}, {\"path\": \"lib/wsprd/Makefile.MinGW\", \"sha256\": \"258b3f502ca74ac1e625ccfc9683b84ef3713dc762a5009b4dda095111440900\"}, {\"path\": \"lib/wsprd/Makefile.win32\", \"sha256\": \"ed1faa204920426d824d9186b585fad316acf266ebea6167284b6cadd1406d9b\"}, {\"path\": \"lib/wsprd/README\", \"sha256\": \"893e8d41fe67de7c9a34b63db9174aef635843f69a226caab645a2088e7494c0\"}, {\"path\": \"lib/wsprd/WSPRcode.f90\", \"sha256\": \"ee98a2fd84a4b6184834ebf5db4df70cf0e32c359cc49f2656d249dfe2aea5db\"}, {\"path\": \"lib/wsprd/fano.c\", \"sha256\": \"72d3e176e75b7714916aed9fbf36f003b7ea5f511f0dd13e96e9ddbc2e159a15\"}, {\"path\": \"lib/wsprd/fano.h\", \"sha256\": \"1955cd1d71d4cfb69cd5a4cc7dd563d239948fa9e302f1cfe4f40e8b5409ff65\"}, {\"path\": \"lib/wsprd/fftw3.h\", \"sha256\": \"2ad69b83074acf2e526a4b24b4472e48920be404959aaa98ae1e1fe2faae8b5f\"}, {\"path\": \"lib/wsprd/genmet.f90\", \"sha256\": \"b28d9f0be5159ea5570c854ae6f401fc1f6fa5fd126109a9e3a10b04347b8ec1\"}, {\"path\": \"lib/wsprd/gran.c\", \"sha256\": \"8a901c21c19afd58760df1d23205364c8bb725e615db087db991e78190947413\"}, {\"path\": \"lib/wsprd/jelinek.c\", \"sha256\": \"489dca79d5094f5437c6362e49df998c33f4c1ef98abf8b85104af0b74614ed1\"}, {\"path\": \"lib/wsprd/jelinek.h\", \"sha256\": \"72cc0edd4f079c4e23c42535a1a71ccfd5c55aad3dff9ae94d2c6c8f43ebd2b8\"}, {\"path\": \"lib/wsprd/metric_tables.c\", \"sha256\": \"aaa4e6df79394b25335feaffa5d1f20667680ae54b34fe34944fa8ccd5f4ec81\"}, {\"path\": \"lib/wsprd/mettab.c\", \"sha256\": \"400db1d50d85fe14da7522f3b43236e0746d84ba829329286570fd62a2061bb1\"}, {\"path\": \"lib/wsprd/nhash.c\", \"sha256\": \"cb46be03631e31528d2159eb0f54674776bd9f84f6b9a1d54307deb2196dc432\"}, {\"path\": \"lib/wsprd/nhash.h\", \"sha256\": \"067d02ce073cd90c1d6668d80b4d50e658365a84ba6c2eb2f13b98caca859511\"}, {\"path\": \"lib/wsprd/osdwspr.f90\", \"sha256\": \"79a88cdaf75f49d466da0e85157d27e9d58ec6c866e37236e717117f3192cb8e\"}, {\"path\": \"lib/wsprd/t2.f90\", \"sha256\": \"f45ef1270d2e523823249ca3687a2b915bd3f305f1f47c26290772fb857b5b5b\"}, {\"path\": \"lib/wsprd/tab.c\", \"sha256\": \"c453b07ac25d30227e4d25c0e134718a1858cf9ab801a1679935925957fcfe54\"}, {\"path\": \"lib/wsprd/test_wspr.f90\", \"sha256\": \"0e8166e8b16151994617f55350dded1b1031ff843171395c6aa73f6c104a83c8\"}, {\"path\": \"lib/wsprd/unpk.c.obsolete\", \"sha256\": \"5241841db710d7709d5156f1696c98bc9bc13114e17cc33a07d0a25ebb41eaad\"}, {\"path\": \"lib/wsprd/wspr_params.f90\", \"sha256\": \"f556097bdcd727abb46c37c9bf1382488f0fdb3aefc69165fe2d45d481780775\"}, {\"path\": \"lib/wsprd/wspr_wav.f90\", \"sha256\": \"61bfa0be382f276978c183f7ac47aecad7b4be00c1ff9c5baa22d7078bb7c501\"}, {\"path\": \"lib/wsprd/wsprd.c\", \"sha256\": \"f0c1c8508e612159a4a2040ceb34326606f83aa9b2d7226229cb453bf4ab57ea\"}, {\"path\": \"lib/wsprd/wsprd_stats.txt\", \"sha256\": \"1883bc4fc358701d7e0a41a494458c3e81025cd4a1559219e8c9cd16dc5a2757\"}, {\"path\": \"lib/wsprd/wsprd_utils.c\", \"sha256\": \"133526020b0bc84afd0b736108e544ca9566e784e463321b5f644bdf5226ecab\"}, {\"path\": \"lib/wsprd/wsprd_utils.h\", \"sha256\": \"04ff90f5386ccfe2872ca56b0ac2ca2b7c0398b4fdedff3aa9ca45b2d37852ba\"}, {\"path\": \"lib/wsprd/wsprsim.c\", \"sha256\": \"d74b1aee6bc375dad1e2863465620e2770ec0c8058d6d64b2fb8bab24089d7a3\"}, {\"path\": \"lib/wsprd/wsprsim_utils.c\", \"sha256\": \"0218978e6d9ec498a4e1950cf56ca91d01e5ce49f71ebee070cbd9ce01a21f1c\"}, {\"path\": \"lib/wsprd/wsprsim_utils.h\", \"sha256\": \"7eee512e662cc1324e855716bf44db9c943e63240f7d567325c9dacf7a1fc261\"}, {\"path\": \"lib/wsprd/wsprsimf.f90\", \"sha256\": \"b75a9178cb4552879d2448db0d8bfaac4d9111213b639617d50d2464e1ccf0e6\"}, {\"path\": \"lib/xcall.txt\", \"sha256\": \"dfe67146a6a291e41e7af72fb715c78d7d98180ec91f3e4ff4a5a26e0aa8f2a4\"}, {\"path\": \"lib/xcor.f90\", \"sha256\": \"b5aa4853c6cbd0887678b475c2c4c11a67875e7c93d204ee0b80411c8fff1232\"}, {\"path\": \"lib/xcor4.f90\", \"sha256\": \"7f2a5b06661d8639719d48af0126ee4ddac79528a6d4c8d9e4e3fef89bce54c9\"}, {\"path\": \"lib/zplot9.f90\", \"sha256\": \"dcdf91e5205ca9864efa0db92969f46e7686e9b15f48797d7347815fb196aef5\"}, {\"path\": \"lib/zplt.f90\", \"sha256\": \"e1db6dcfc95f69e4d1b5fa49ca2eb73805c936e7cf0d6b396d8d579035a6905f\"}]"
+        },
+        {
+          "name": "sbom:provenance-verification",
+          "value": "unknown upstream origin"
+        }
+      ],
+      "type": "library"
+    }
+  ],
+  "compositions": [
+    {
+      "aggregate": "unknown",
+      "assemblies": [
+        "git:https://github.com/wave-owl/WSJT-X@b4f9a431bcf6449df8f37b56de79d48b665b044c"
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "dependsOn": [],
+      "ref": "1704c1c3e5fe4dd5"
+    },
+    {
+      "dependsOn": [],
+      "ref": "1c37cfa0fb11d328"
+    },
+    {
+      "dependsOn": [],
+      "ref": "1cb106f0d753b9d7"
+    },
+    {
+      "dependsOn": [],
+      "ref": "31a48d29f3fd8ab3"
+    },
+    {
+      "dependsOn": [],
+      "ref": "393a4644cf195a13"
+    },
+    {
+      "dependsOn": [],
+      "ref": "4d5f100296e89536"
+    },
+    {
+      "dependsOn": [],
+      "ref": "837524ce74d49907"
+    },
+    {
+      "dependsOn": [],
+      "ref": "8b34c65f63cb05f5"
+    },
+    {
+      "dependsOn": [],
+      "ref": "a35f878b88d32f6a"
+    },
+    {
+      "dependsOn": [],
+      "ref": "bb7382289be03219"
+    },
+    {
+      "dependsOn": [],
+      "ref": "c1ec5f4cb4973487"
+    },
+    {
+      "dependsOn": [],
+      "ref": "ce8b45a4f62dd9df"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:0b4cfe126386bd6c08e4cf63d3688de3db736db8fda71b72c01a53399c72f907"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:2eca436246008423ab21c2e5b274ff22575d796065e6228494e26ae1adea81ae"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:2faee624b02035312df42917eb0ffdcdb17040cb315dd72ff8490d8967888fad"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:395b171f232ca867e50cd57305cd99dec3bd0a45de3caf0f52d1f35a38d00e65"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:41cc690adc05e13a75ee48562d87405b1cb3dfc23e7e60765fd941e9d751b217"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:5acf341b9d2b8444bbc8c905a123d35dc0fac576b47670e805434f86036022bf"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:6ad12407926261beeda736382b0fc5b022b4df0f1b95e6859d444144668c6284"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:91a85d9059115e2ce0f826dc2c26692a4c79aaa248105b331947c01e16cc7171"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:ab181c51483eb4309a8fc3035960ec47701b4d71a09bf72e10bcce5dcc78268e"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:b14462c57f5f6d38272891333543e6ed14194dcb8c8e8fc6eedf58aeed0f31f7"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:c9ca631a0b49b846ef409c5f44d884728b26a504f5a8690be4adfc1f1cc8cc8b"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:ce635629a4f11ceed0f04856031abe3a456e474e501d32057b77f4429163f93f"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:cfdf1d95dfe564038b10beb04a53838f68f0619781d600b7b44b6c9fc214f05a"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:d972da322ec04327b348d9e7ff79715386b55e1437e0a26070262e1ba7e57591"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:dae93864afb64491f71d06bf51ece79ae2eac04f92ad57ef8246852198f2c228"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:f1d41e42fd4032d44a593c19b1025d4951b639f75c5ac717fe74eb0b0d2f5c6b"
+    },
+    {
+      "dependsOn": [],
+      "ref": "cmake:fc4ddabeb523cd03c304ca5ac4fc313063946bcaf41aae7db4a0357aae7225e9"
+    },
+    {
+      "dependsOn": [],
+      "ref": "e47527d340d242d4"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:0"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:1"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:10"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:11"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:12"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:13"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:14"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:15"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:16"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:17"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:18"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:19"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:2"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:20"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:21"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:22"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:23"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:24"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:25"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:26"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:3"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:4"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:5"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:6"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:7"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:8"
+    },
+    {
+      "dependsOn": [],
+      "ref": "external-library:9"
+    },
+    {
+      "dependsOn": [],
+      "ref": "f24afa5abfe9405b"
+    },
+    {
+      "dependsOn": [],
+      "ref": "fa7eed21f98af20c"
+    },
+    {
+      "dependsOn": [],
+      "ref": "fac329cd527277fc"
+    },
+    {
+      "dependsOn": [],
+      "ref": "fbd613e3d89fa5c9"
+    },
+    {
+      "dependsOn": [],
+      "ref": "fdf13fb18119e1e2"
+    },
+    {
+      "dependsOn": [
+        "1704c1c3e5fe4dd5",
+        "1c37cfa0fb11d328",
+        "1cb106f0d753b9d7",
+        "31a48d29f3fd8ab3",
+        "393a4644cf195a13",
+        "4d5f100296e89536",
+        "837524ce74d49907",
+        "8b34c65f63cb05f5",
+        "a35f878b88d32f6a",
+        "bb7382289be03219",
+        "c1ec5f4cb4973487",
+        "ce8b45a4f62dd9df",
+        "cmake:0b4cfe126386bd6c08e4cf63d3688de3db736db8fda71b72c01a53399c72f907",
+        "cmake:2eca436246008423ab21c2e5b274ff22575d796065e6228494e26ae1adea81ae",
+        "cmake:2faee624b02035312df42917eb0ffdcdb17040cb315dd72ff8490d8967888fad",
+        "cmake:395b171f232ca867e50cd57305cd99dec3bd0a45de3caf0f52d1f35a38d00e65",
+        "cmake:41cc690adc05e13a75ee48562d87405b1cb3dfc23e7e60765fd941e9d751b217",
+        "cmake:5acf341b9d2b8444bbc8c905a123d35dc0fac576b47670e805434f86036022bf",
+        "cmake:6ad12407926261beeda736382b0fc5b022b4df0f1b95e6859d444144668c6284",
+        "cmake:91a85d9059115e2ce0f826dc2c26692a4c79aaa248105b331947c01e16cc7171",
+        "cmake:ab181c51483eb4309a8fc3035960ec47701b4d71a09bf72e10bcce5dcc78268e",
+        "cmake:b14462c57f5f6d38272891333543e6ed14194dcb8c8e8fc6eedf58aeed0f31f7",
+        "cmake:c9ca631a0b49b846ef409c5f44d884728b26a504f5a8690be4adfc1f1cc8cc8b",
+        "cmake:ce635629a4f11ceed0f04856031abe3a456e474e501d32057b77f4429163f93f",
+        "cmake:cfdf1d95dfe564038b10beb04a53838f68f0619781d600b7b44b6c9fc214f05a",
+        "cmake:d972da322ec04327b348d9e7ff79715386b55e1437e0a26070262e1ba7e57591",
+        "cmake:dae93864afb64491f71d06bf51ece79ae2eac04f92ad57ef8246852198f2c228",
+        "cmake:f1d41e42fd4032d44a593c19b1025d4951b639f75c5ac717fe74eb0b0d2f5c6b",
+        "cmake:fc4ddabeb523cd03c304ca5ac4fc313063946bcaf41aae7db4a0357aae7225e9",
+        "e47527d340d242d4",
+        "external-library:0",
+        "external-library:1",
+        "external-library:10",
+        "external-library:11",
+        "external-library:12",
+        "external-library:13",
+        "external-library:14",
+        "external-library:15",
+        "external-library:16",
+        "external-library:17",
+        "external-library:18",
+        "external-library:19",
+        "external-library:2",
+        "external-library:20",
+        "external-library:21",
+        "external-library:22",
+        "external-library:23",
+        "external-library:24",
+        "external-library:25",
+        "external-library:26",
+        "external-library:3",
+        "external-library:4",
+        "external-library:5",
+        "external-library:6",
+        "external-library:7",
+        "external-library:8",
+        "external-library:9",
+        "f24afa5abfe9405b",
+        "fa7eed21f98af20c",
+        "fac329cd527277fc",
+        "fbd613e3d89fa5c9",
+        "fdf13fb18119e1e2",
+        "vendored:contrib",
+        "vendored:lib"
+      ],
+      "ref": "git:https://github.com/wave-owl/WSJT-X@b4f9a431bcf6449df8f37b56de79d48b665b044c"
+    },
+    {
+      "dependsOn": [],
+      "ref": "vendored:contrib"
+    },
+    {
+      "dependsOn": [],
+      "ref": "vendored:lib"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "bom-ref": "git:https://github.com/wave-owl/WSJT-X@b4f9a431bcf6449df8f37b56de79d48b665b044c",
+      "externalReferences": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/wave-owl/WSJT-X/tree/b4f9a431bcf6449df8f37b56de79d48b665b044c"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "name": "License evidence; see declared files"
+          }
+        }
+      ],
+      "name": "wave-owl/WSJT-X",
+      "properties": [
+        {
+          "name": "sbom:role",
+          "value": "source-root"
+        },
+        {
+          "name": "sbom:git-commit",
+          "value": "b4f9a431bcf6449df8f37b56de79d48b665b044c"
+        },
+        {
+          "name": "sbom:git-tree",
+          "value": "3f01398eb467ad5db990c1927df2d15d2ea5589e"
+        },
+        {
+          "name": "sbom:source-repository",
+          "value": "https://github.com/wave-owl/WSJT-X"
+        },
+        {
+          "name": "sbom:release-tags",
+          "value": "[]"
+        },
+        {
+          "name": "sbom:license-evidence",
+          "value": "[{\"path\": \"COPYING\", \"sha256\": \"b4bbff835ca86b6051284a77138b7b31db215fb3e8aa70221464126cc9ad60fa\"}]"
+        },
+        {
+          "name": "sbom:license-resolution",
+          "value": "unresolved; manual review required"
+        },
+        {
+          "name": "sbom:snapshot",
+          "value": "true"
+        },
+        {
+          "name": "sbom:snapshot-source-commit",
+          "value": "b4f9a431bcf6449df8f37b56de79d48b665b044c"
+        },
+        {
+          "name": "sbom:snapshot-scope",
+          "value": "Initial immutable source snapshot, before the tooling commit; not a release report."
+        }
+      ],
+      "type": "application",
+      "version": "b4f9a431bcf6449df8f37b56de79d48b665b044c"
+    },
+    "properties": [
+      {
+        "name": "sbom:scope",
+        "value": "Source repository inventory only; completeness is UNKNOWN. Syft inventories tracked source/package manifests. Gitlinks and declared vendored/model evidence are inspected at immutable pins. CMake declarations are conditional requirements, not resolved installations. This is NOT proof of operating-system packages, static-link closure, build-time resolution, or the contents of release binaries."
+      },
+      {
+        "name": "sbom:generation-status",
+        "value": "success"
+      },
+      {
+        "name": "sbom:generation-errors",
+        "value": "[]"
+      }
+    ],
+    "timestamp": "2026-11-02T16:49:28.962047+00:00",
+    "tools": {
+      "components": [
+        {
+          "author": "anchore",
+          "name": "syft",
+          "type": "application",
+          "version": "1.55.0"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:c5419ed3-18cf-4407-a1ad-93126c3b5cbb",
+  "specVersion": "1.6",
+  "version": 1
+}
